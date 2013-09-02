@@ -1,0 +1,540 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"conver",
+				"converted"
+			],
+			[
+				"convet",
+				"converted"
+			],
+			[
+				"in",
+				"input	input"
+			],
+			[
+				"el",
+				"elif	elif"
+			],
+			[
+				"for",
+				"formatmonth  (function)"
+			],
+			[
+				"cla",
+				"calendar"
+			],
+			[
+				"method",
+				"method1"
+			],
+			[
+				"anth",
+				"anotherClass"
+			],
+			[
+				"m",
+				"method2"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"funct",
+				"funct2"
+			],
+			[
+				"func",
+				"funct2"
+			],
+			[
+				"fun",
+				"someFunction"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"width",
+				"width:   (property)"
+			],
+			[
+				"a",
+				"arrayName  (variable)"
+			],
+			[
+				"arra",
+				"arrayName"
+			],
+			[
+				"sar",
+				"SAR"
+			],
+			[
+				"Jp",
+				"JPY"
+			],
+			[
+				"Ca",
+				"CAD"
+			],
+			[
+				"IC",
+				"IC_buy"
+			],
+			[
+				"fore",
+				"forex_buy"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"str_re",
+				"str_replace"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pakca",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"contro",
+				"Package Control: Install Package"
+			],
+			[
+				"contri",
+				"Package Control: Install Package"
+			],
+			[
+				"code in",
+				"CI Codeintel Helper: Create IDE helper"
+			],
+			[
+				"control",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 568.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/HOME/Documents/python/os.py",
+		"/D/wamp/www/forex_ci/application/controllers/apis.php",
+		"/D/wamp/www/forex_ci/application/controllers/aboutus.php",
+		"/D/wamp/www/forex_ci/application/views/api_view.php",
+		"/D/wamp/www/forex_ci/application/controllers/downloads.php",
+		"/D/wamp/www/forex_ci/application/views/download_page.php",
+		"/D/wamp/www/forex_ci/application/controllers/forex.php",
+		"/D/wamp/www/forex_ci/application/controllers/scrape_engine_forex.php",
+		"/D/wamp/www/forex_ci/forex.php",
+		"/D/wamp/www/forex_ci/database.php",
+		"/D/wamp/www/forex_ci/application/config/routes.php",
+		"/D/wamp/www/forex_ci/index.php",
+		"/D/contactx.html",
+		"/D/wamp/www/forex_ci/application/controllers/scrape_engine.php",
+		"/D/wamp/www/forex_ci/application/controllers/index.php",
+		"/D/wamp/www/forex_ci/apis.php",
+		"/D/wamp/www/forex_ci/application/controllers/gold.php",
+		"/D/wamp/www/amr/CodeIgniter/codeignitor.sublime-project",
+		"/C/Users/HOME/Documents/python/calender.py",
+		"/D/wamp/www/amr/CodeIgniter/application/views/header.php",
+		"/D/wamp/www/amr/CodeIgniter/application/views/upload_success.php",
+		"/D/wamp/www/amr/test21/storeadmin/inventory_list.php",
+		"/D/wamp/www/amr/test21/storeadmin/inventory_edit.php",
+		"/D/wamp/www/amr/test21/storescripts/connect_to_mysql.php",
+		"/D/wamp/www/amr/test21/index.php",
+		"/D/wamp/www/amr/test21/auto_update.php",
+		"/D/wamp/www/amr/test21/product.php",
+		"/D/wamp/www/amr/test21/product_list.php",
+		"/D/wamp/www/amr/test21/category.php",
+		"/D/wamp/www/amr/test21/user_product.php",
+		"/D/wamp/www/amr/test21/user_uploaded.php",
+		"/D/wamp/www/amr/test21/auto_user_update.php",
+		"/D/wamp/www/amr/phoenix_books/storeuser/user_account.php",
+		"/D/wamp/www/amr/phoenix_books/search_page.php",
+		"/D/wamp/www/amr/test21/storeadmin/index.php",
+		"/D/wamp/www/index.php",
+		"/C/Users/HOME/Downloads/forex_ci/application/config/routes.php",
+		"/C/Users/HOME/Downloads/forex_ci/application/config/config.php",
+		"/D/wamp/www/amr/option.php",
+		"/D/wamp/www/amr/wordpress/wp-config.php",
+		"/C/Users/HOME/Documents/python/start.py",
+		"/C/Users/HOME/Documents/python/date.py",
+		"/C/Users/HOME/Documents/python/file.py",
+		"/C/Users/HOME/Documents/python/from_internet.py",
+		"/C/Users/HOME/Documents/python/from_net.py",
+		"/C/Python33/loop.py",
+		"/C/Python33/person.py",
+		"/C/Python27/form.py",
+		"/C/Python27/form.html",
+		"/C/Users/HOME/Documents/python/html.html",
+		"/D/vids/tutorials/Lynda -Up and Running with Python/Exercise Files/Ch5/htmlparsing_finished.py",
+		"/D/vids/tutorials/Lynda -Up and Running with Python/Exercise Files/Ch5/htmlparsing_start.py",
+		"/C/Users/HOME/Documents/python/textfile.txt",
+		"/D/wamp/www/forex_ci/application/controllers/charts.php",
+		"/D/vids/tutorials/Lynda -Up and Running with Python/02 Python Basics/02_05-loops.mp4",
+		"/C/Users/HOME/Documents/python/first.py",
+		"/C/Users/HOME/Documents/git/OCv2/lib/config.inc.php",
+		"/C/Users/HOME/Documents/git/OCv2/js/chart.js",
+		"/D/wamp/www/forex_ci/application/models/chart.php",
+		"/D/wamp/www/forex_ci/assets/js/unit_forex_compare.js",
+		"/D/wamp/www/forex_ci/assets/js/us_vs_gold.js",
+		"/D/wamp/www/forex_ci/assets/js/history_gold.js",
+		"/D/wamp/www/forex_ci/assets/js/history_forex.js",
+		"/D/wamp/www/forex_ci/assets/js/current_gold.js",
+		"/D/wamp/www/forex_ci/assets/js/current_forex.js",
+		"/D/wamp/www/forex_ci/application/views/gold.php",
+		"/D/wamp/www/forex_ci/application/controllers/contacts.php",
+		"/D/wamp/www/forex_ci/application/models/api.php",
+		"/D/wamp/www/forex_ci/application/models/contact.php",
+		"/C/Users/HOME/Downloads/gold&siver (1).json",
+		"/D/wamp/www/forex_ci/application/views/header.php",
+		"/D/wamp/www/forex_ci/application/views/aboutus_view.php",
+		"/D/wamp/www/forex_ci_aug_8/application/controllers/downloads.php",
+		"/D/wamp/www/forex_ci_aug_8/application/controllers/apis.php",
+		"/C/Users/HOME/Downloads/gold&siver (5).xml",
+		"/C/Users/HOME/Downloads/gold&siver (2).csv",
+		"/D/wamp/www/forex_ci/assets/js/select_gold_date.js",
+		"/C/Users/HOME/Downloads/forex (7).xml",
+		"/D/wamp/www/forex_ci/assets/js/worldmap.js",
+		"/D/wamp/www/forex_ci/assets/js/select_forex_date.js",
+		"/C/Users/HOME/Downloads/forex (6).json",
+		"/D/wamp/www/forex_ci/application/views/chart.php",
+		"/D/wamp/www/forex_ci/application/views/forex.php",
+		"/D/wamp/www/forex_ci/application/views/footer.php",
+		"/D/wamp/www/forex_ci/application/views/header_admin.php",
+		"/D/wamp/www/forex_ci/application/views/login_form.php",
+		"/D/wamp/www/forex_ci/application/views/scrape_view.php",
+		"/D/wamp/www/forex_ci/application/views/admin_area.php",
+		"/D/wamp/www/forex_ci/application/controllers/site.php",
+		"/D/wamp/www/forex_ci/application/views/contact.php",
+		"/D/wamp/www/forex_ci/application/views/welcome_message.php",
+		"/D/wamp/alias/phpmyadmin.conf",
+		"/C/Users/HOME/Downloads/forex (6).xml",
+		"/D/wamp/www/forex_ci/system/database/DB_utility.php",
+		"/C/Users/HOME/Downloads/forex (5).json",
+		"/C/Users/HOME/Downloads/forex (3).csv",
+		"/D/wamp/www/forex_ci_aug_8/system/database/DB_utility.php",
+		"/D/wamp/www/forex_ci/application/models/forex.php",
+		"/D/wamp/www/forex_ci/application/models/metal.php",
+		"/D/wamp/www/forex_ci/application/models/site_model.php",
+		"/C/Users/HOME/Downloads/forex (4).json",
+		"/C/Users/HOME/Downloads/forex (3).json",
+		"/C/Users/HOME/Downloads/metal.xml",
+		"/C/Users/HOME/Downloads/forex (3)",
+		"/D/wamp/www/forex_ci/application/libraries/Format.php",
+		"/C/Users/HOME/Downloads/gold&siver (4).xml",
+		"/C/Users/HOME/Downloads/forex (4).xml",
+		"/D/wamp/www/forex_ci/application/libraries/REST_Controller.php",
+		"/D/wamp/www/forex_ci/application/config/rest.php",
+		"/C/Users/HOME/Downloads/forex (1)",
+		"/C/Users/HOME/Downloads/Compressed/REST_Service/REST_Service/application/views/widget_v1/json.php",
+		"/D/wamp/www/forex_ci/application/controllers/key.php",
+		"/C/Users/HOME/Downloads/gold&siver (2).xml",
+		"/C/Users/HOME/Downloads/gold&siver (3).xml",
+		"/C/Users/HOME/Downloads/gold&siver.csv",
+		"/C/Users/HOME/Downloads/gold&siver (1).xml",
+		"/C/Users/HOME/Documents/git/ForexNGold/forex_ci/application/controllers/downloads.php",
+		"/C/Users/HOME/Downloads/forex (3).xml",
+		"/C/Users/HOME/Downloads/forex(1).json",
+		"/C/Users/HOME/Downloads/forex (1).xml",
+		"/C/Users/HOME/Downloads/gold&siver.xml",
+		"/C/Users/HOME/Downloads/forex.xml",
+		"/C/Users/HOME/Downloads/forex (2).xml",
+		"/D/wamp/www/forex_ci/yipl_projct.sublime-workspace",
+		"/C/Users/HOME/Documents/test.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\wamp\\www\\forex_ci\\assets",
+			"",
+			"D:\\wamp\\www\\forex_ci\\assets\\js",
+			"D:\\wamp\\www\\forex_ci\\controllers",
+			"",
+			"D:\\wamp\\www\\forex_ci\\application\\controllers",
+			"D:\\wamp\\www\\forex_ci\\application\\models",
+			"D:\\wamp\\www\\forex_ci\\application\\views",
+			"D:\\wamp\\www\\forex_ci\\application\\models",
+			"D:\\wamp\\www\\forex_ci\\application\\controllers",
+			"D:\\wamp\\www\\forex_ci\\application\\models",
+			"D:\\wamp\\www\\forex_ci\\application\\views",
+			"D:\\wamp\\www\\forex_ci\\application\\models",
+			"D:\\wamp\\www\\forex_ci\\application\\controllers",
+			"D:\\wamp\\www\\forex_ci\\application\\views",
+			"D:\\wamp\\www\\forex_ci\\application\\models",
+			"D:\\wamp\\www\\forex_ci\\application\\views",
+			"D:\\wamp\\www\\forex_ci\\application\\models",
+			"D:\\wamp\\www\\forex_ci\\application\\controllers",
+			"D:\\wamp\\www\\forex_ci\\application\\models",
+			"D:\\wamp\\www\\forex_ci\\application\\controllers",
+			"D:\\wamp\\www\\forex_ci\\application\\views",
+			"D:\\wamp\\www\\forex_ci\\application\\controllers",
+			"D:\\wamp\\www\\forex_ci\\application\\models",
+			"D:\\wamp\\www\\forex_ci\\application\\controllers",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$table_name",
+			"ajax",
+			"spline",
+			"#header",
+			"<?base_url()?>",
+			"http://localhost/forex_ci/",
+			"Deny",
+			"http://localhost/forex_ci/",
+			"localhost",
+			"asse",
+			"_sell",
+			"_buy",
+			"buy",
+			"$forexarray",
+			"silver_amt",
+			"tejabi_amt",
+			"hallmark_amt",
+			"date_added",
+			"final",
+			"forex",
+			"_sell",
+			"_buy",
+			"_sell",
+			"date_added",
+			"_buy",
+			"_sell",
+			"_buy",
+			"date_added",
+			"final",
+			"map",
+			"final",
+			"format",
+			"table",
+			"GOld",
+			"_check_limit",
+			"to_xml(",
+			"response",
+			"list_",
+			"json_encode",
+			"_buy",
+			"field"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<?=base_url()?>",
+			"<?base_url()?>",
+			"Silver",
+			"Tejabi",
+			"Hallmark",
+			"Date",
+			"forex",
+			" Sell",
+			" Buy",
+			" Sell",
+			"Date",
+			" Buy",
+			" Sell",
+			" Buy",
+			"Date",
+			"forex"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 221.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gold",
+				"application/views/gold.php"
+			],
+			[
+				"charts",
+				"application/controllers/charts.php"
+			],
+			[
+				"db_utility",
+				"system/database/DB_utility.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/wamp/www/forex_ci/pro.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true
+}
