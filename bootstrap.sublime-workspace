@@ -212,6 +212,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/HOME/Desktop/test.html",
+		"/D/wamp/www/bootstrap/index.php",
 		"/C/Users/HOME/Documents/python/os.py",
 		"/D/wamp/www/forex_ci/application/controllers/apis.php",
 		"/D/wamp/www/forex_ci/application/controllers/aboutus.php",
@@ -526,7 +528,7 @@
 		[
 			[
 				"",
-				"/D/wamp/www/forex_ci/pro.sublime-project"
+				"/D/wamp/www/amr/CommunitcationSouthAsia/hackathon.sublime-project"
 			]
 		],
 		"width": 380.0
