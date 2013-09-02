@@ -18,6 +18,7 @@
 
     <section class="container">
         <div class="content row">
+           <?php include "assets/php/header.php" ?>
           <section class="main col col-lg-8">
             <h2>Main content</h2>
             <p>Step 6: Setting Up your Live Site
