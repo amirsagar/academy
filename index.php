@@ -18,15 +18,48 @@
 
     <section class="container">
         <div class="content row">
-          <section class="main col col-lg-8">
-            <?php include "assets/php/header.php" ?>
+          
+            <?php include "assets/php/header.php"; ?>
+            <?php include "assets/php/carousel.php"; ?>
+            <section class="main col col-lg-8">
+               <?php include "assets/php/article-intro.php"; ?>
+               <?php include "assets/php/article-about.php"; ?>
+               <?php include "assets/php/article_featured.php"; ?>
           </section>
           <section class="main col col-lg-4">
-            <h2>Side content</h2>
-            <p>Now that we have imported the database, and all of our content should be uploaded, it is time to configure WordPress. At this time, your site should be showing an Error Establishing Database Connection error. To fix this, connect to your website using an FTP client and edit wp-config.php file. Provide the database name, user and password you created earlier in Step 3. Save the wp-config.php file and upload it back to your server. Visit your website, and it should be live now.
-Login to your WordPress admin panel, and go to Settings » General. Click save Options. This will ensure that the site url is corrected anywhere else that needs to be.
-Then go to Settings » Permalink and click Save to ensure that all post links are working fine.</p>
-          </section>
+            <?php include "assets/php/aside-register.php"; ?>
+            <?php include "assets/php/aside-gallery.php"; ?>
+            <?php include "assets/php/aside-accordion.php"; ?>
+           <h2>Live Action Films</h2> 
+           <ul>
+             <li>1940s Serials</li>
+               <ul>
+                 <li>Batman (1943)</li>
+                 <li>Batman and Robin (1949)</li>
+             </ul>
+
+             <li>1960s Batman</li>
+               <ul>
+                 <li>Batman (1966)</li>
+               </ul>
+             <li>Burton and Schumacher Series</li>
+             <ul>
+               <li>Batman (1989)</li>
+               <li>Batman Returns (1992)</li>
+               <li>Batman Forever (1995)</li>
+               <li>Batman & Robin (1997)</li>
+             </ul>
+
+             <li>Nolan Series</li>
+             <ul>
+               <li>Batman Begins (2005)</li>
+               <li>The Dark Knight (2008)</li>
+               <li>The Dark Knight Rises (2012)</li>
+             </ul>
+
+           </ul>
+
+         </section>
         </div>
          <?php include "assets/php/footer.php" ?>
     </section>  

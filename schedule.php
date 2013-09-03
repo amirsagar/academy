@@ -6,7 +6,7 @@
     <link href='http://fonts.googleapis.com/css?family=Bree+Serif|Merriweather:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
 
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -16,17 +16,21 @@
   </head>
   <body id="schedule">
 
-    <section class="container">
+     <section class="container">
         <div class="content row">
-           <?php include "assets/php/header.php" ?>
-          <section class="main col col-lg-8">
-            <h2>Main content</h2>
-            <p>Step 6: Setting Up your Live Site
-              Now that we have imported the database, and all of our content should be uploaded, it is time to configure WordPress. At this time, your site should be showing an Error Establishing Database Connection error. To fix this, connect to your website using an FTP client and edit wp-config.php file. Provide the database name, user and password you created earlier in Step 3. Save the wp-config.php file and upload it back to your server. Visit your website, and it should be live now.
-              Login to your WordPress admin panel, and go to Settings » General. Click save Options. This will ensure that the site url is corrected anywhere else that needs to be.
-              Then go to Settings » Permalink and click Save to ensure that all post links are working fine.</p>
+          
+            <?php include "assets/php/header.php"; ?>
+             k
+            <section class="main col col-lg-8">
+               
+               <?php include "assets/php/article-schedule.php"; ?>
+           
           </section>
           <section class="main col col-lg-4">
+            <?php include "assets/php/aside-register.php"; ?>
+            <?php include "assets/php/aside-gallery.php"; ?>
+            <?php include "assets/php/aside-accordion.php"; ?>
+          
             
           </section>
         </div>

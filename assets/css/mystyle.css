@@ -1,0 +1,86 @@
+h1,h2,h3,h4,h5,h6{
+	font-family: @headlineFontFamily;
+	color: purple
+}
+
+body{
+	margin-top: 30px;
+}
+
+p{
+	font-family: @copyFontFamily;
+	font-size: 1.1em;
+	line-height:1.4em;
+	color: darkblue;
+	padding: 0 2%;
+
+}
+
+.container{
+	background: beige;
+	-webkit-border-radius: 60px 0 0 0;
+	-moz-border-radius: 60px 0 0 0;
+	border-radius: 60px 0 0 0;
+
+@media(max-width: 767px){
+	-webkit-border-radius: 20px 0 0 0;
+	-moz-border-radius: 20px 0 0 0;
+	border-radius: 20px 0 0 0;
+
+}
+}
+.main{
+	background: beige;
+}
+.navbar{
+	margin-bottom: 0;
+}
+
+.carousel{
+	margin-bottom: 0;
+}
+.main>articel{
+	margin: 0 5%;
+
+}
+.sidebar>aside{
+	padding-right:5%;
+
+	@media(max-width: 767px){
+		padding-left:5%;
+	}
+}
+
+aside{
+	h2{
+		font-size: 1.8em;
+		color:pink;
+		border-bottom: 1px dotted purple;
+
+
+	}
+}
+
+.navbar{
+	border-right:none;
+	border-left:none;
+	border-radius:0;
+}
+
+#branding{
+	img{
+		margin:10px 0 5px 25px;
+		max-width:450px;
+		@media(max-width: 767px){
+			margin:10px 0 5px 10px;
+			width: 90%;
+		}
+	}
+}
+
+.according-heading{
+	background: purple;
+	a{
+		color:white;
+	}
+}
