@@ -8,11 +8,6 @@
     <!-- Bootstrap -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
 
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="../../assets/js/html5shiv.js"></script>
-      <script src="../../assets/js/respond.min.js"></script>
-    <![endif]-->
   </head>
   <body id="home">
 
@@ -34,27 +29,27 @@
            <ul>
              <li>1940s Serials</li>
                <ul>
-                 <li>Batman (1943)</li>
-                 <li>Batman and Robin (1949)</li>
+                <a href="http://www.imdb.com/title/tt0035665/"> <li>Batman (1943)</li></a>
+                <a href="http://www.imdb.com/title/tt0041162/"> <li>Batman and Robin (1949)</li></a>
              </ul>
 
              <li>1960s Batman</li>
                <ul>
-                 <li>Batman (1966)</li>
+                 <a href="http://www.imdb.com/title/tt0060153/"><li>Batman (1966)</li></a>
                </ul>
              <li>Burton and Schumacher Series</li>
              <ul>
-               <li>Batman (1989)</li>
-               <li>Batman Returns (1992)</li>
-               <li>Batman Forever (1995)</li>
-               <li>Batman & Robin (1997)</li>
+               <a href="http://www.imdb.com/title/tt0096895/"><li>Batman (1989)</li></a>
+               <a href="http://www.imdb.com/title/tt0103776/"><li>Batman Returns (1992)</li></a>
+               <a href="http://www.imdb.com/title/tt0112462/"><li>Batman Forever (1995)</li></a>
+               <a href="http://www.imdb.com/title/tt0118688/"><li>Batman & Robin (1997)</li></a>
              </ul>
 
              <li>Nolan Series</li>
              <ul>
-               <li>Batman Begins (2005)</li>
-               <li>The Dark Knight (2008)</li>
-               <li>The Dark Knight Rises (2012)</li>
+               <a href="http://www.imdb.com/title/tt0372784/"><li>Batman Begins (2005)</li></a>
+                <a href="http://www.imdb.com/title/tt0468569/"><li>The Dark Knight (2008)</li></a>
+               <a href="http://www.imdb.com/title/tt1345836/"><li>The Dark Knight Rises (2012)</li></a>
              </ul>
 
            </ul>
@@ -65,10 +60,5 @@
     </section>  
     
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/myscript.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="assets/js/bootstrap.min.js"></script>
   </body>
 </html>

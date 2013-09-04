@@ -20,7 +20,7 @@
         <div class="content row">
           
             <?php include "assets/php/header.php"; ?>
-             k
+             
             <section class="main col col-lg-8">
                
                <?php include "assets/php/article-schedule.php"; ?>
@@ -38,9 +38,6 @@
     </section>  
     
 
-   <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/myscript.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="assets/js/bootstrap.min.js"></script>
+   
   </body>
 </html>

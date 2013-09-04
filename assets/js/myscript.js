@@ -3,8 +3,8 @@ $(function(){
 //show current nav
 $("#home a:contains('Home')").parent().addClass('active');
 $("#schedule a:contains('Schedule')").parent().addClass('active');
-$("#artists a:contains('Artists')").parent().addClass('active');
-$("#venue a:contains('Venue')").parent().addClass('active');
+$("#characters a:contains('Characters')").parent().addClass('active');
+$("#categories a:contains('Categories')").parent().addClass('active');
 $("#register a:contains('Register')").parent().addClass('active');
 
 
@@ -34,5 +34,9 @@ $("#register a:contains('Register')").parent().addClass('active');
 
 var hash = window.location.hash;
 hash && $('ul.nav a[href="'+ hash + '"]').tab('show');
+
+//bootstrap class img
+$('.photogrid img').addClass('img-circle');
+
 
 });

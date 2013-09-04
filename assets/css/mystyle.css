@@ -1,5 +1,5 @@
 h1,h2,h3,h4,h5,h6{
-	font-family: @headlineFontFamily;
+	font-family: headlineFontFamily;
 	color: purple
 }
 
@@ -8,13 +8,19 @@ body{
 }
 
 p{
-	font-family: @copyFontFamily;
+
+	font-family: copyFontFamily;
 	font-size: 1.1em;
 	line-height:1.4em;
-	color: darkblue;
+	
+	
 	padding: 0 2%;
 
 }
+
+hr { 
+        border-top: 2px solid #ccc;
+        }
 
 .container{
 	background: beige;
@@ -78,9 +84,97 @@ aside{
 	}
 }
 
-.according-heading{
+.accordion-heading{
 	background: purple;
-	a{
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	
+}
+.accordion-heading a{
 		color:white;
 	}
+
+.nav-tabs li a{
+	color: purple;
+}
+.nav-tabs li.active a{
+	color: pink;
+	background: white;
+	font-weight: bold;
+}
+.nav-tabs li a:hover{
+	background: pink;
+	color: white;
+}
+.nav-tabs li.active{
+	color: purple;
+}
+
+.photogrid img{
+	width: 96px;
+	margin: 0 5px 5px 0;
+	cursor: pointer;  
+}
+
+footer ul.breadcrumb{
+	background: #5e5556;
+	margin: 0 auto;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+
+}
+footer li{
+	text-shadow: none;
+
+}
+footer li a{
+	color:white;
+
+
+}
+.navbar .nav>li.dropdown-menu{
+	top:30px;
+}
+
+.scrollspy .nav{
+	width: 150px;
+	background: purple;
+	margin-top: 20px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+
+}
+.scrollspy .nav li{
+	padding: 0;
+	margin: 0;
+	border-bottom: 1px solid white;
+	
+}
+
+.scrollspy .nav li a{
+	color: white;
+	text-indent: none;
+	
+	
+}
+.scrollspy .nav li a:hover{
+	background: #e16a77;
+	color: black;
+	
+}
+ li.active{
+	background: pink;
+}
+
+li:first-child{
+	border-top: none;
+}
+li:last-child{
+	border-bottom: none;
+
+}
+.affix {
+    top: 20px;
 }
