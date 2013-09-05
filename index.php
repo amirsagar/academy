@@ -26,7 +26,7 @@
       <?php include "assets/php/aside-gallery.php"; ?>
       <?php include "assets/php/aside-accordion.php"; ?>
       <aside>
-       <h2>Live Action Films</h2> 
+       <h2>Live Action Films <em>(Review in imdb)</em> </h2> 
        <ul>
          <li>1940s Serials</li>
          <ul>

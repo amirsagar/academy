@@ -231,7 +231,17 @@ li:last-child{
 	color: white;
 
 }
-
+.scrollup{
+    width:40px;
+    height:40px;
+    opacity:0.3;
+    position:fixed;
+    bottom:50px;
+    right:100px;
+    display:none;
+    text-indent:-9999px;
+    background: url('assets/images/icon_top.png') no-repeat;
+}
 </style>
 <div class="content row">
 	<div class="col-lg-12">
