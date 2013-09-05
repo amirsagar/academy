@@ -14,7 +14,7 @@
       <script src="../../assets/js/respond.min.js"></script>
       <![endif]-->
   </head>
-  <body id="others">
+  <body id="movies">
 
   	<section class="container">
   		<div class="content row">

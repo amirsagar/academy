@@ -220,6 +220,18 @@ li:last-child{
 	background-color: #c1c0bb;
 	
 }
+
+.modal-body-others {
+  position: relative;
+  max-height: 500px;
+  padding: 15px;
+  overflow-y: auto;
+}
+.carousel-caption h3{
+	color: white;
+
+}
+
 </style>
 <div class="content row">
 	<div class="col-lg-12">

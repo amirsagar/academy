@@ -101,7 +101,7 @@
         <h4 class="modal-title">Batman's career timeline</h4>
         <p>This is the timeline of Batman's career. It covers his debut in 1939 until the present.</p>
       </div>
-      <div class="modal-body">
+      <div class="modal-body-others">
         <article>
           <img class="pull-right img-rounded" src="assets/images/others/comics/batman-1.jpg" alt="">
           <div class="media-body">
@@ -130,7 +130,7 @@
         <h4 class="modal-title">Batman: The Killing Joke</h4>
 
       </div>
-      <div class="modal-body">
+      <div class="modal-body-others">
         <article>
           <img class="pull-right img-rounded" src="assets/images/others/comics/batman-large-2.jpg" alt="">
           <div class="media-body">
@@ -175,7 +175,7 @@
         <h4 class="modal-title">Batman: The Long Halloween</h4>
 
       </div>
-      <div class="modal-body">
+      <div class="modal-body-others">
         <article>
           <img class="pull-right img-rounded" src="assets/images/others/comics/batman-large-3.jpg" alt="">
           <div class="media-body">
@@ -207,7 +207,7 @@
         <h4 class="modal-title">Arkham Asylum: A Serious House on Serious Earth</h4>
 
       </div>
-      <div class="modal-body">
+      <div class="modal-body-others">
         <article>
           <img class="pull-right img-rounded" src="assets/images/others/comics/batman-large-4.jpg" alt="">
           <div class="media-body">
@@ -254,7 +254,7 @@
         <h4 class="modal-title">Batman: No Man's Land</h4>
 
       </div>
-      <div class="modal-body">
+      <div class="modal-body-others">
         <article>
 
           <div class="media-body">
@@ -295,7 +295,7 @@
         <h4 class="modal-title">Detective Comics (Volume 2)</h4>
 
       </div>
-      <div class="modal-body">
+      <div class="modal-body-others">
         <article>
           <img class="pull-right img-rounded" src="assets/images/others/comics/batman-6.png" alt="">
           <div class="media-body">
@@ -322,7 +322,7 @@
         <h4 class="modal-title">Detective Comics vol. 1</h4>
 
       </div>
-      <div class="modal-body">
+      <div class="modal-body-others">
         <article>
           <img class="pull-right img-rounded" src="assets/images/others/comics/batman-7.jpg" alt="">
           <div class="media-body">
@@ -347,7 +347,7 @@
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
         <h4 class="modal-title">Batman: Dark Victory</h4>
 
-        <div class="modal-body">
+        <div class="modal-body-others">
           <article>
             <img class="pull-right img-rounded" src="assets/images/others/comics/batman-large-8.jpg" alt="">
             <div class="media-body">
@@ -386,7 +386,7 @@
 </div>
 
 
-<div class="gallery">
+<div class="gallery" id="games">
 
   <h2>Video Games</h2>
   <p>Video games that feature Batman, his Allies and his Enemies.</p>
@@ -478,7 +478,7 @@
         <h4 class="modal-title">Batman: Arkham Origins</h4>
 
       </div>
-      <div class="modal-body">
+      <div class="modal-body-others">
         <article>
           <img class="pull-right img-rounded" src="assets/images/others/video_games/batman-1-large.jpg" alt="">
           <div class="media-body">
@@ -507,7 +507,7 @@
         <h4 class="modal-title"> Batman: Arkham City</h4>
 
       </div>
-      <div class="modal-body">
+      <div class="modal-body-others">
         <article>
           <img class="pull-right img-rounded" src="assets/images/others/video_games/batman-2-large.jpg" alt="">
           <div class="media-body">
@@ -541,7 +541,7 @@
         <h4 class="modal-title">Batman: Arkham Asylum</h4>
 
       </div>
-      <div class="modal-body">
+      <div class="modal-body-others">
         <article>
           <img class="pull-right img-rounded" src="assets/images/others/video_games/batman-3-large.jpeg" alt="">
           <div class="media-body">
@@ -573,7 +573,7 @@
           <h4 class="modal-title">LEGO Batman: The Videogame</h4>
 
         </div>
-        <div class="modal-body">
+        <div class="modal-body-others">
           <article>
             <img class="pull-right img-rounded" src="assets/images/others/video_games/batman-4-large.jpg" alt="">
             <div class="media-body">
@@ -608,7 +608,7 @@
           <h4 class="modal-title">LEGO Batman 2: DC Super Heroes</h4>
 
         </div>
-        <div class="modal-body">
+        <div class="modal-body-others">
           <article>
             <img class="pull-right img-rounded" src="assets/images/others/video_games/batman-5-large.jpg" alt="">
             <div class="media-body">
@@ -637,7 +637,7 @@
             <h4 class="modal-title">Batman: Arkham Origins Blackgate</h4>
 
           </div>
-          <div class="modal-body">
+          <div class="modal-body-others">
             <article>
               <img class="pull-right img-rounded" src="assets/images/others/video_games/batman-6.jpg" alt="">
               <div class="media-body">
@@ -667,7 +667,7 @@
               <h4 class="modal-title">Batman: The Fire Rises</h4>
 
             </div>
-            <div class="modal-body">
+            <div class="modal-body-others">
               <article>
                 <img class="pull-right img-rounded" src="assets/images/others/video_games/batman-7.png" alt="">
                 <div class="media-body">
@@ -717,7 +717,7 @@
             <h4 class="modal-title">The Dark Knight Rises (Video Game)</h4>
 
           </div>
-          <div class="modal-body">
+          <div class="modal-body-others">
             <article>
               <img class="pull-right img-rounded" src="assets/images/others/video_games/batman-8-large.png" alt="">
               <div class="media-body">
