@@ -1,5 +1,5 @@
-<article class="schedule">
-	<h1>Schedule</h1>
+<article class="others">
+	<h1>others</h1>
 
 <p>the acedamy gets submissions Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, facere, optio, alias, expedita nam beatae soluta earum delectus eius iste atque tempora at distinctio similique fugiat voluptatum officiis temporibus natus.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, reiciendis unde consectetur quidem sit repellat ducimus quae qui amet. Explicabo eos vel adipisci laudantium odit tenetur est veritatis asperiores. Architecto.</p>
 

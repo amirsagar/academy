@@ -87,7 +87,14 @@ aside h2{
 }
 
 .accordion-heading{
-	background: purple;
+	background: #dc5346;;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	
+}
+.accordion-heading:hover{
+
+	background: #e37368;
 	padding-bottom: 5px;
 	margin-bottom: 5px;
 	
@@ -95,17 +102,21 @@ aside h2{
 .accordion-heading a{
 		color:white;
 	}
+.accordion-heading a:hover{
+	text-decoration: none;
+		color:black;
+	}
 
 .nav-tabs li a{
 	color: purple;
 }
 .nav-tabs li.active a{
-	color: pink;
+	color: #dc5346;
 	background: white;
 	font-weight: bold;
 }
 .nav-tabs li a:hover{
-	background: pink;
+	background: #dc5346;
 	color: white;
 }
 .nav-tabs li.active{
@@ -125,7 +136,9 @@ aside h2{
 	cursor: pointer;  
 }
 
+
 footer ul.breadcrumb{
+	width: 100%;
 	background: #5e5556;
 	margin: 0 auto;
 	-webkit-border-radius: 0;
@@ -187,6 +200,18 @@ li:last-child{
 .affix {
     top: 20px;
 }
+
+.tab-content{
+	background: white;
+}
+
+  .thumbnail img {
+  box-shadow: 0 0 25px 0px #737370;
+  -webkit-box-shadow: 0 0 25px 0px #737370;
+  padding: 4px 6px 5px 5px;
+  background-color: #c1c0bb;
+  
+  }
 </style>
 <div class="content row">
 	<div class="col-lg-12">
@@ -221,7 +246,7 @@ li:last-child{
    
   </ul>
 					</li>
-					<li><a href="schedule.php">Schedule</a></li>
+					<li><a href="others.php">Others</a></li>
 					<li><a href="register.php">Register</a></li>
 					
 				</ul>

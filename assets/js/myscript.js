@@ -2,7 +2,7 @@ $(function(){
 
 //show current nav
 $("#home a:contains('Home')").parent().addClass('active');
-$("#schedule a:contains('Schedule')").parent().addClass('active');
+$("#others a:contains('Others')").parent().addClass('active');
 $("#characters a:contains('Characters')").parent().addClass('active');
 $("#categories a:contains('Categories')").parent().addClass('active');
 $("#register a:contains('Register')").parent().addClass('active');
@@ -30,7 +30,7 @@ $("#register a:contains('Register')").parent().addClass('active');
 		})
 	});
 
-//activate schedule tabs
+//activate others tabs
 
 var hash = window.location.hash;
 hash && $('ul.nav a[href="'+ hash + '"]').tab('show');

@@ -8,15 +8,7 @@
     <!-- Bootstrap -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
 
-<style>
-  .thumbnail img {
-  box-shadow: 0 0 25px 0px #737370;
-  -webkit-box-shadow: 0 0 25px 0px #737370;
-  padding: 4px 6px 5px 5px;
-  background-color: #c1c0bb;
-  width:3000 px;
-  }
-  </style>
+
   </head>
   <body id="categories">
 
@@ -34,7 +26,7 @@
   <div class="row">
         <div class="col-sm-6 col-md-3">
           <div class="thumbnail">
-            <img data-src="holder.js/300x200" alt="300x200" src="assets/images/tv/movies/batman-6.jpg">
+            <a href="article-tab.php#batman_begins"><img data-src="holder.js/300x200" alt="300x200" src="assets/images/tv/movies/batman-6.jpg"></a>
             <div class="caption">
               <a href="article-tab.php#batman_begins"><h6>Batman Begins</h6></a>
               
@@ -43,18 +35,18 @@
         </div>
         <div class="col-sm-6 col-md-3">
           <div class="thumbnail">
-            <img data-src="holder.js/300x200" alt="300x200" src="assets/images/tv/movies/batman-7.jpg">
+           <a href="article-tab.php#dark_knight"><img data-src="holder.js/300x200" alt="300x200" src="assets/images/tv/movies/batman-7.jpg"></a>
             <div class="caption">
-              <h6>The Dark Knight</h6>
+              <a href="article-tab.php#dark_knight"> <h6>The Dark Knight</h6></a>
               
             </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-3">
           <div class="thumbnail">
-            <img data-src="holder.js/300x200" alt="300x200" src="assets/images/tv/movies/batman-8.jpg">
+            <a href="article-tab.php#dark_knight_rises"> <img data-src="holder.js/300x200" alt="300x200" src="assets/images/tv/movies/batman-8.jpg"></a>
             <div class="caption">
-              <h6>The Dark Knight Rises</h6>
+              <a href="article-tab.php#dark_knight_rises"> <h6>The Dark Knight Rises</h6></a>
               
             </div>
           </div>

@@ -25,6 +25,7 @@
             <?php include "assets/php/aside-register.php"; ?>
             <?php include "assets/php/aside-gallery.php"; ?>
             <?php include "assets/php/aside-accordion.php"; ?>
+            <aside>
            <h2>Live Action Films</h2> 
            <ul>
              <li>1940s Serials</li>
@@ -53,7 +54,7 @@
              </ul>
 
            </ul>
-
+</aside>
          </section>
         </div>
          <?php include "assets/php/footer.php" ?>

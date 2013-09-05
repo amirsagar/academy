@@ -14,7 +14,7 @@
       <script src="../../assets/js/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body id="schedule">
+  <body id="others">
 
      <section class="container">
         <div class="content row">
@@ -35,6 +35,7 @@ Ra's al Ghul</p>
   <li><a href="#batman_begins_info" data-toggle="tab">General Information</a></li>
   <li><a href="#batman_begins_cast" data-toggle="tab">Cast</a></li>
   <li><a href="#batman_begins_gallery" data-toggle="tab">Gallery</a></li>
+  <li><a href="#batman_begins_trailer" data-toggle="tab">Trailler</a></li>
 </ul>
 </div>
 
@@ -43,7 +44,7 @@ Ra's al Ghul</p>
 		<article>
 		<img class="pull-right img-rounded" src="assets/images/tv/tab/batman_begins/batman_begins_poster.jpg" alt="">
 		<div class="media-body">
-				<p>Batman Begins is a 2005 superhero film based on the fictional DC Comics character Batman. The film is directed by Christopher Nolan and stars Christian Bale as Batman, Michael Caine as Alfred Pennyworth, Liam Neeson as Ra's al Ghul, Cillian Murphy as Scarecrow, Katie Holmes as Rachel Dawes, Gary Oldman as James Gordon and Morgan Freeman as Lucius Fox. Batman Begins was released June 15, 2005 in the United States.
+				<p><br>	<b>Batman Begins</b> is a 2005 superhero film based on the fictional DC Comics character Batman. The film is directed by Christopher Nolan and stars Christian Bale as Batman, Michael Caine as Alfred Pennyworth, Liam Neeson as Ra's al Ghul, Cillian Murphy as Scarecrow, Katie Holmes as Rachel Dawes, Gary Oldman as James Gordon and Morgan Freeman as Lucius Fox. Batman Begins was released June 15, 2005 in the United States.
 				Several years after the commercial and critical failure of Joel Schumacher's Batman & Robin in 1997, Begins was a reboot of the Batman film franchise. The lighter comic-toned direction Schumacher had taken the franchise was abandoned, and the new film was written concerning the origins of Batman with some inspirations from classic comic book storylines such as Batman: The Man Who Falls, Batman: Year One, and The Long Halloween. The film was the first live action film to depict this stage of the character's history.
 				Batman Begins proved to be successful, and a sequel titled The Dark Knight was commissioned for a 2008 release with both Nolan and Bale returning. A third film, The Dark Knight Rises, was released in 2012.</p>
 
@@ -120,7 +121,7 @@ Ra's al Ghul</p>
 	<div class="tab-pane" id="batman_begins_gallery">
 		
 	
-	<h2> Photos from Batman Begins</h2>
+	<h3> Photos from Batman Begins</h3>
 <div class="modalphotos grid clearfix">
 	<img src="assets/images/tv/tab/batman_begins/banner_small.jpg"alt="">
 	<img src="assets/images/tv/tab/batman_begins/batman_1_small.jpg"alt="">
@@ -142,6 +143,11 @@ Ra's al Ghul</p>
 
 </div>
 	</div>
+
+	<div class="tab-pane" id="batman_begins_trailer">
+<iframe width="640" height="360" src="//www.youtube.com/embed/m7dapUWHykw" frameborder="0" allowfullscreen></iframe>
+		
+	</div>
 </section>
 </article>
 	
@@ -160,19 +166,19 @@ Harvey Dent</p>
   <li><a href="#dark_knight_info" data-toggle="tab">General Information</a></li>
   <li><a href="#dark_knight_cast" data-toggle="tab">Cast</a></li>
   <li><a href="#dark_knight_gallery" data-toggle="tab">Gallery</a></li>
+  <li><a href="#dark_knight_trailer" data-toggle="tab">Trailler</a></li>
+
 </ul>
 </div>
 
 <section class="tab-content">
-	<div class="tab-pane active" id="batman_begins">
+	<div class="tab-pane active" id="dark_knight">
 		<article>
 		<img class="pull-right img-rounded" src="assets/images/tv/tab/dark_knight/dark_knight_poster.jpg" alt="">
 		<div class="media-body">
-				<p>The Dark Knight is a 2008 superhero film directed, produced, and co-written by Christopher Nolan. Based on the DC Comics character Batman, the film is the second part of Nolan's Batman film series and a sequel to 2005's Batman Begins. Christian Bale reprises the lead role of Bruce Wayne/Batman, with a returning cast of Michael Caine as Alfred Pennyworth, Gary Oldman as James Gordon and Morgan Freeman as Lucius Fox. The film introduces the character of Harvey Dent (Aaron Eckhart), Gotham's newly elected District Attorney and the consort of Bruce Wayne's childhood friend Rachel Dawes (Maggie Gyllenhaal), who joins Batman and the police in combating the new rising threat of a criminal mastermind calling himself "The Joker" (Heath Ledger).
-Nolan's inspiration for the film was the Joker's comic book debut in 1940, the 1988 graphic novel The Killing Joke, and the 1996 series The Long Halloween, which retold Two-Face's origin. The nickname "the Dark Knight" was first applied to Batman in Batman No. 1 (1940), in a story written by Bill Finger. The Dark Knight was filmed primarily in Chicago, as well as in several other locations in the United States, the United Kingdom, and Hong Kong. Nolan used an IMAX camera to film some sequences, including the Joker's first appearance in the film. On January 22, 2008, some months after he had completed filming on The Dark Knight and six months before the film's release, Heath Ledger died from a toxic combination of prescription drugs, leading to intense attention from the press and movie-going public. Warner Bros. had initially created a viral marketing campaign for The Dark Knight, developing promotional websites and trailers highlighting screen shots of Ledger as the Joker, but after Ledger's death, the studio refocused its promotional campaign.
-The Dark Knight was released on July 16, 2008 in Australia, on July 18, 2008 in North America, and on July 24, 2008 in the United Kingdom. Considered one of the best films of the 2000s and one of the best superhero films by film critics the film received highly positive reviews and set numerous records during its theatrical run. With over $1 billion in revenue worldwide, it is the 16th-highest-grossing film of all time, unadjusted for inflation. The film received eight Academy Award nominations; it won the award for Best Sound Editing and Ledger was posthumously awarded Best Supporting Actor. The Dark Knight Rises, the final film in the trilogy, was released on July 20, 2012.
-In Gotham City, The Joker and his accomplices rob a mob-owned bank. The accomplices kill each other off one by one in a sequence masterminded by the Joker, who escapes alone with all the money.
-Batman and Lt. Jim Gordon decide to include the new district attorney, Harvey Dent, in their plan to eradicate the mob. Although Dent is dating Rachel Dawes, Bruce Wayne is impressed with his idealism and offers to throw him a fundraiser. Mob bosses Sal Maroni, Gambol, and The Chechen hold a videoconference with Lau, a Chinese accountant who has hidden their funds and fled to Hong Kong. The Joker interrupts the meeting, warning that Batman is unhindered by jurisdiction. He offers to kill Batman for half their money, but the mob bosses refuse, and Gambol puts a bounty on him. The Joker kills Gambol and takes control of his men. Batman captures Lau and delivers him back to Gotham to testify against the Joker and the mob.</p>
+				<p><br><b>The Dark Knight</b> is a 2008 superhero film directed, produced, and co-written by Christopher Nolan. Based on the DC Comics character Batman, the film is the second part of Nolan's Batman film series and a sequel to 2005's Batman Begins. Christian Bale reprises the lead role of Bruce Wayne/Batman, with a returning cast of Michael Caine as Alfred Pennyworth, Gary Oldman as James Gordon and Morgan Freeman as Lucius Fox. The film introduces the character of Harvey Dent (Aaron Eckhart), Gotham's newly elected District Attorney and the consort of Bruce Wayne's childhood friend Rachel Dawes (Maggie Gyllenhaal), who joins Batman and the police in combating the new rising threat of a criminal mastermind calling himself "The Joker" (Heath Ledger).
+				Nolan's inspiration for the film was the Joker's comic book debut in 1940, the 1988 graphic novel The Killing Joke, and the 1996 series The Long Halloween, which retold Two-Face's origin. The nickname "the Dark Knight" was first applied to Batman in Batman No. 1 (1940), in a story written by Bill Finger. The Dark Knight was filmed primarily in Chicago, as well as in several other locations in the United States, the United Kingdom, and Hong Kong. Nolan used an IMAX camera to film some sequences, including the Joker's first appearance in the film. On January 22, 2008, some months after he had completed filming on The Dark Knight and six months before the film's release, Heath Ledger died from a toxic combination of prescription drugs, leading to intense attention from the press and movie-going public. Warner Bros. had initially created a viral marketing campaign for The Dark Knight, developing promotional websites and trailers highlighting screen shots of Ledger as the Joker, but after Ledger's death, the studio refocused its promotional campaign.
+				</p>
 
 				
 		</div>
@@ -250,7 +256,7 @@ Batman and Lt. Jim Gordon decide to include the new district attorney, Harvey De
 	<div class="tab-pane" id="dark_knight_gallery">
 		
 	
-	<h2> Photos from Dark knight</h2>
+	<h3> Photos from Dark knight</h3>
 <div class="modalphotos grid clearfix">
 	<img src="assets/images/tv/tab/dark_knight/batman-1_small.jpg"alt="">
 	<img src="assets/images/tv/tab/dark_knight/Banner_small.jpg"alt="">
@@ -268,6 +274,11 @@ Batman and Lt. Jim Gordon decide to include the new district attorney, Harvey De
 	
 
 </div>
+	</div>
+
+	<div class="tab-pane" id="dark_knight_trailer">
+<iframe width="640" height="360" src="//www.youtube.com/embed/K7LnQZztL5c" frameborder="0" allowfullscreen></iframe>
+		
 	</div>
 </section>
 </article>
@@ -288,19 +299,18 @@ Batman:“Not everything. Not yet.”<br>
   <li><a href="#dark_knight_rises_info" data-toggle="tab">General Information</a></li>
   <li><a href="#dark_knight_rises_cast" data-toggle="tab">Cast</a></li>
   <li><a href="#dark_knight_rises_gallery" data-toggle="tab">Gallery</a></li>
+  <li><a href="#dark_knight_rises_trailer" data-toggle="tab">Trailer</a></li>
 </ul>
 </div>
 
 <section class="tab-content">
-	<div class="tab-pane active" id="batman_begins">
+	<div class="tab-pane active" id="dark_knight_rises">
 		<article>
 		<img class="pull-right img-rounded" src="assets/images/tv/tab/dark_knight_rises/TheDarkKnightRises_Poster.jpg" alt="">
 		<div class="media-body">
-				<p>The Dark Knight Rises is a 2012 superhero film directed by Christopher Nolan, who co-wrote the screenplay with his brother Jonathan Nolan and the story with David S. Goyer. Featuring the DC Comics character Batman, the film is the final installment in Nolan's Batman film trilogy, and it is the sequel to Batman Begins (2005) and The Dark Knight (2008). Christian Bale reprises the lead role of Bruce Wayne/Batman, with a returning cast of his allies: Michael Caine as Alfred Pennyworth, Gary Oldman as James Gordon, and Morgan Freeman as Lucius Fox. The film introduces Selina Kyle (Anne Hathaway), a sly, morally-ambiguous cat burglar, and Bane (Tom Hardy), a mercenary bent on destroying Gotham City. Drawn back into action by new threats facing the city, an older Bruce Wayne is forced to come out of retirement and become Batman once again.
-Christopher Nolan was initially hesitant about returning to the series for a second time, but agreed to come back after developing a story with his brother and Goyer that he felt would conclude the series on a satisfactory note. Nolan drew inspiration from Bane's comic book debut in the 1993 "Knightfall" storyline, the 1986 series The Dark Knight Returns, and the 1999 storyline "No Man's Land". Filming took place in various locations, including Jodhpur, London, Nottingham, Glasgow, Los Angeles, New York City, Newark, and Pittsburgh. Nolan used IMAX cameras for much of the filming, including the first six minutes of the film, to optimize the quality of the picture. A variation of the Batplane termed "The Bat", an underground prison set, and a new Batcave set were created specifically for the film. As with The Dark Knight, viral marketing campaigns began early during production to help promotion. When filming concluded, Warner Bros. refocused its campaign: developing promotional websites, releasing the first six minutes of the film, screening theatrical trailers, and sending out information regarding the film's plot.
-The Dark Knight Rises premiered in New York City on July 16, 2012. The film was released in Australia and New Zealand on July 19, 2012, and in North America and the United Kingdom on July 20, 2012. Upon release it received a positive critical response and grossed over $1.081 billion worldwide. The Dark Knight Rises is currently the ninth-highest-grossing film of all time, the third-highest-grossing film of 2012, and the third-highest-grossing superhero film of all time.
-Eight years after Harvey Dent's death, the Dent Act grants the Gotham City Police Department powers which nearly eradicate organized crime. Feeling guilty for covering up Dent's crimes, Police Commissioner James Gordon writes a resignation speech confessing the truth, but decides not to use it. Batman has disappeared; Bruce Wayne has become a recluse. Cat burglar Selina Kyle obtains Bruce's fingerprints from his home, seduces a congressman, then disappears. Selina hands Bruce's fingerprints to Phillip Stryver, an assistant to Bruce's business rival John Daggett, in hope of having her criminal record erased. Stryver double-crosses Selina, but she uses the congressman's stolen phone to alert the police to their location. Gordon and the police arrive to find the congressman, then pursue Stryver's men into the sewers while Selina flees. A masked man called Bane captures Gordon. Gordon escapes and is found by John Blake, a once-orphaned patrol officer who has deduced Batman's true identity from their similar backgrounds. Gordon promotes Blake to detective, with Blake reporting directly to him.
-Wayne Enterprises is unprofitable after Bruce discontinued his fusion reactor project when he learned that the core could be weaponized. Later, Bane attacks the Gotham Stock Exchange, using Bruce's fingerprints in a transaction that bankrupts Wayne. Alfred Pennyworth, concerned that Bruce has not moved on from being Batman, reveals to him that Rachel Dawes had intended to marry Dent before she died; Alfred then resigns in an attempt to dissuade Bruce. Fearing that Daggett, Bane's employer, would gain access to the reactor, Bruce asks Wayne Enterprises board member Miranda Tate to take over his company. After being promised the software to erase her criminal record, Selina agrees to take Batman to Bane, but instead leads him into a trap. Bane reveals that he intends to fulfill Ra's al Ghul's mission to destroy Gotham with the League of Shadows remnant. He delivers a crippling blow to Batman's back, then takes him to a foreign, well-like prison where escape is virtually impossible. The inmates tell Bruce the story of Ra's al Ghul's child, born in the prison and cared for by a fellow prisoner before escaping—the only prisoner to have ever done so. Bruce assumes the child to be Bane.</p>
+				<p><br><b>The Dark Knight Rises</b> is a 2012 superhero film directed by Christopher Nolan, who co-wrote the screenplay with his brother Jonathan Nolan and the story with David S. Goyer. Featuring the DC Comics character Batman, the film is the final installment in Nolan's Batman film trilogy, and it is the sequel to Batman Begins (2005) and The Dark Knight (2008). Christian Bale reprises the lead role of Bruce Wayne/Batman, with a returning cast of his allies: Michael Caine as Alfred Pennyworth, Gary Oldman as James Gordon, and Morgan Freeman as Lucius Fox. The film introduces Selina Kyle (Anne Hathaway), a sly, morally-ambiguous cat burglar, and Bane (Tom Hardy), a mercenary bent on destroying Gotham City. Drawn back into action by new threats facing the city, an older Bruce Wayne is forced to come out of retirement and become Batman once again.
+				Christopher Nolan was initially hesitant about returning to the series for a second time, but agreed to come back after developing a story with his brother and Goyer that he felt would conclude the series on a satisfactory note. Nolan drew inspiration from Bane's comic book debut in the 1993 "Knightfall" storyline, the 1986 series The Dark Knight Returns, and the 1999 storyline "No Man's Land". Filming took place in various locations, including Jodhpur, London, Nottingham, Glasgow, Los Angeles, New York City, Newark, and Pittsburgh. Nolan used IMAX cameras for much of the filming, including the first six minutes of the film, to optimize the quality of the picture. A variation of the Batplane termed "The Bat", an underground prison set, and a new Batcave set were created specifically for the film. As with The Dark Knight, viral marketing campaigns began early during production to help promotion. When filming concluded, Warner Bros. refocused its campaign: developing promotional websites, releasing the first six minutes of the film, screening theatrical trailers, and sending out information regarding the film's plot.
+</p>
 
 				
 		</div>
@@ -384,7 +394,7 @@ Wayne Enterprises is unprofitable after Bruce discontinued his fusion reactor pr
 	<div class="tab-pane" id="dark_knight_rises_gallery">
 		
 	
-		<h2> Photos from Dark Knight Rises</h2>
+		<h3> Photos from Dark Knight Rises</h3>
 <div class="modalphotos grid clearfix">
 	<img src="assets/images/dkr/logo_185px.jpg"alt="">
 	<img src="assets/images/dkr/bruc_185px.jpg"alt="">
@@ -399,6 +409,9 @@ Wayne Enterprises is unprofitable after Bruce discontinued his fusion reactor pr
 
 
 	</div>
+	<div class="tab-pane" id="dark_knight_rises_trailer">
+<iframe width="640" height="360" src="//www.youtube.com/embed/ASQqjK47c04" frameborder="0" allowfullscreen></iframe>
+	</div>
 </section>
 </article>
 <hr>
@@ -406,7 +419,7 @@ Wayne Enterprises is unprofitable after Bruce discontinued his fusion reactor pr
           <section class="main col col-lg-4">
             <?php include "assets/php/aside-register.php"; ?>
             <?php include "assets/php/aside-gallery.php"; ?>
-            <?php include "assets/php/aside-accordion.php"; ?>
+           
           
             
           </section>
