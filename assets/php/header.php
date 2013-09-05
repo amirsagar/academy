@@ -1,6 +1,6 @@
 
 <style>
-	h1,h2,h3,h4,h5,h6{
+h1,h2,h3,h4,h5,h6{
 	font-family: headlineFontFamily;
 	color: purple
 }
@@ -21,8 +21,8 @@ p{
 }
 
 hr { 
-        border-top: 2px solid #ccc;
-        }
+	border-top: 2px solid #ccc;
+}
 
 .container{
 	background: beige;
@@ -30,12 +30,12 @@ hr {
 	-moz-border-radius: 60px 0 0 0;
 	border-radius: 60px 0 0 0;
 
-@media(max-width: 767px){
-	-webkit-border-radius: 20px 0 0 0;
-	-moz-border-radius: 20px 0 0 0;
-	border-radius: 20px 0 0 0;
+	@media(max-width: 767px){
+		-webkit-border-radius: 20px 0 0 0;
+		-moz-border-radius: 20px 0 0 0;
+		border-radius: 20px 0 0 0;
 
-}
+	}
 }
 .main{
 	background: beige;
@@ -61,9 +61,9 @@ hr {
 
 aside h2{
 	
-		font-size: 1.8em;
-		color:pink;
-		border-bottom: 1px dotted purple;
+	font-size: 1.8em;
+	color:pink;
+	border-bottom: 1px dotted purple;
 
 
 	
@@ -77,17 +77,17 @@ aside h2{
 
 #branding img{
 	
-		margin:10px 0 5px 25px;
-		max-width:450px;
-		@media(max-width: 767px){
-			margin:10px 0 5px 10px;
-			width: 90%;
-		}
+	margin:10px 0 5px 25px;
+	max-width:450px;
+	@media(max-width: 767px){
+		margin:10px 0 5px 10px;
+		width: 90%;
+	}
 	
 }
 
 .accordion-heading{
-	background: #dc5346;;
+	background: #dc5346;
 	padding-bottom: 5px;
 	margin-bottom: 5px;
 	
@@ -100,12 +100,12 @@ aside h2{
 	
 }
 .accordion-heading a{
-		color:white;
-	}
+	color:white;
+}
 .accordion-heading a:hover{
 	text-decoration: none;
-		color:black;
-	}
+	color:black;
+}
 
 .nav-tabs li a{
 	color: purple;
@@ -146,14 +146,22 @@ footer ul.breadcrumb{
 	border-radius: 0;
 
 }
+
 footer li{
 	text-shadow: none;
 
 }
 footer li a{
 	color:white;
-
-
+}
+footer li.active {
+	background-color:#5e5556;
+	color:black;
+	text-color:black;
+}
+footer li a:hover{
+	color:black;
+	text-decoration: none
 }
 .navbar .nav > li.dropdown-menu{
 	top:30px;
@@ -182,12 +190,12 @@ footer li a{
 	
 }
 .scrollspy .nav li a:hover{
-	background: #e16a77;
+	background: #fe42ff;
 	color: black;
 	
 }
- li.active{
-	background: pink;
+li.active{
+	background: #b200b2;
 }
 
 li:first-child{
@@ -198,20 +206,20 @@ li:last-child{
 
 }
 .affix {
-    top: 20px;
+	top: 20px;
 }
 
 .tab-content{
 	background: white;
 }
 
-  .thumbnail img {
-  box-shadow: 0 0 25px 0px #737370;
-  -webkit-box-shadow: 0 0 25px 0px #737370;
-  padding: 4px 6px 5px 5px;
-  background-color: #c1c0bb;
-  
-  }
+.thumbnail img {
+	box-shadow: 0 0 25px 0px #737370;
+	-webkit-box-shadow: 0 0 25px 0px #737370;
+	padding: 4px 6px 5px 5px;
+	background-color: #c1c0bb;
+	
+}
 </style>
 <div class="content row">
 	<div class="col-lg-12">
@@ -228,23 +236,23 @@ li:last-child{
 					<li><a href="categories.php">Categories</a></li>
 					<li  class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Characters <span class="caret"></span></a>
-<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
-	<li ><a tabindex="-1" href="characters.php">All Characters</a></li>
-	<li role="presentation" class="divider"></li>
-	 <li role="presentation"><a role="menuitem" tabindex="-1" href="villians.php">All Villians</a></li>
-	<li role="presentation" class="divider"></li>
-    <li role="presentation"><a role="menuitem" tabindex="-1" href="characters.php#batman">Batman</a></li>
-    <li role="presentation"><a role="menuitem" tabindex="-1" href="characters.php#Batwing">Batwing</a></li>
-    <li role="presentation"><a role="menuitem" tabindex="-1" href="characters.php#nightwing">Nightwing</a></li>
-     <li role="presentation"><a role="menuitem" tabindex="-1" href="characters.php#Batgirl">Batgirl</a></li>
-    <li role="presentation"><a role="menuitem" tabindex="-1" href="characters.php#robin">Red robin</a></li>
-    <li role="presentation"><a role="menuitem" tabindex="-1" href="characters.php#Robin_V">Robin V</a></li>
-     <li role="presentation"><a role="menuitem" tabindex="-1" href="characters.php#Alfred">Alfred</a></li>
-    <li role="presentation"><a role="menuitem" tabindex="-1" href="characters.php#Lucius_Fox">Lucius Fox</a></li>
-    <li role="presentation"><a role="menuitem" tabindex="-1" href="characters.php#Jim_Gordon">Jim Gordon</a></li>
-    
-   
-  </ul>
+						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+							<li ><a tabindex="-1" href="characters.php">All Characters</a></li>
+							<li role="presentation" class="divider"></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="villians.php">All Villians</a></li>
+							<li role="presentation" class="divider"></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="characters.php#batman">Batman</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="characters.php#Batwing">Batwing</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="characters.php#nightwing">Nightwing</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="characters.php#Batgirl">Batgirl</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="characters.php#robin">Red robin</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="characters.php#Robin_V">Robin V</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="characters.php#Alfred">Alfred</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="characters.php#Lucius_Fox">Lucius Fox</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="characters.php#Jim_Gordon">Jim Gordon</a></li>
+							
+							
+						</ul>
 					</li>
 					<li><a href="others.php">Others</a></li>
 					<li><a href="register.php">Register</a></li>
@@ -252,11 +260,11 @@ li:last-child{
 				</ul>
 			</div>
 
-	<section id="modal" class="modal fade">
-		<div class="modal-body">
-			<img id="modal-image"src="" alt="modal photo" >
-		</div>
-	</section>
+			<section id="modal" class="modal fade">
+				<div class="modal-body">
+					<img id="modal-image"src="" alt="modal photo" >
+				</div>
+			</section>
 		</header>
 	</div>
 </div>

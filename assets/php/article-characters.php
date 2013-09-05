@@ -6,7 +6,7 @@
 				<li><a href="#batman"><span class="glyphicon glyphicon-user"></span> Batman</a></li><li>
 				<li><a href="#Batwing"><span class="glyphicon glyphicon-user"></span> Batwing</a></li>
 				<li><a href="#nightwing"><span class="glyphicon glyphicon-user"></span> Night Wing</a></li>
-			
+				
 				<li><a href="#robin"><span class="glyphicon glyphicon-user"></span> Red Robin</a></li>
 				<li><a href="#Robin_V"><span class="glyphicon glyphicon-user"></span> Robin V</a></li>
 				<li><a href="#Batgirl"><span class="glyphicon glyphicon-user"></span> Batgirl</a></li>
@@ -18,7 +18,7 @@
 		</section>
 
 		<section class="characterinfo col col-lg-8">
-         <?php include "assets/php/snippet_article_batman.php" ?>
+			<?php include "assets/php/snippet_article_batman.php" ?>
 			
 		</section>
 	</div>

@@ -8,9 +8,9 @@
 	<?php include "character_photos.php"; ?>
 	
 	<!-- </section> -->
-		
+	
 	<a href="characters.php"><button type="button" class="btn btn-primary">All Charaters</button></a>
-<hr>
+	<hr>
 	<h4>The famous villians:</h4>
 	<?php include "villians_photos.php"; ?>
 	<a href="villians.php"><button type="button" class="btn btn-primary">All Villians</button></a>
