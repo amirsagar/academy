@@ -9,7 +9,7 @@
 	<section class="carousel-inner">
 		<div class="active item"><img src="assets/images/batman-1.jpg" alt="batman-1">
 			<div class="carousel-caption">
-				<a href="article-tab.php"><h3>Check out more from Christopher Nolans: Dark Knight Trilogy</h3></a>
+				<a href="movie-tab.php"><h3>Check out more from Christopher Nolans: Dark Knight Trilogy</h3></a>
 
 			</div>
 		</div>

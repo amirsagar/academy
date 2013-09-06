@@ -15,10 +15,10 @@
 			<div id="batman_begins"class="accordion-body collapse">
 				<section class="accordion-inner">
 					<p>You can go to any links by clicking the buttons:</p>
-					<a href="article-tab.php#batman_begins" class="btn btn-success">Description</a>
-					<a href="article-tab.php#batman_begins_info" class="btn btn-info">General</a>
-					<a href="article-tab.php#batman_begins_cast" class="btn btn-warning">Cast</a>
-					<a href="article-tab.php#batman_begins_gallery" class="btn btn-danger">Gallery</a>
+					<a href="movie-tab.php#batman_begins" class="btn btn-success">Description</a>
+					<a href="movie-tab.php#batman_begins_info" class="btn btn-info">General</a>
+					<a href="movie-tab.php#batman_begins_cast" class="btn btn-warning">Cast</a>
+					<a href="movie-tab.php#batman_begins_gallery" class="btn btn-danger">Gallery</a>
 					<br><br>
 				</section>
 			</div>
@@ -35,10 +35,10 @@
 				<div id="dark_knight"class="accordion-body collapse">
 					<section class="accordion-inner">
 						<p>You can go to any links by clicking the buttons:</p>
-						<a href="article-tab.php#dark_knight" class="btn btn-success">Description</a>
-						<a href="article-tab.php#dark_knight_info" class="btn btn-info">General</a>
-						<a href="article-tab.php#dark_knight_cast" class="btn btn-warning">Cast</a>
-						<a href="article-tab.php#dark_knight_gallery" class="btn btn-danger ">Gallery</a>
+						<a href="movie-tab.php#dark_knight" class="btn btn-success">Description</a>
+						<a href="movie-tab.php#dark_knight_info" class="btn btn-info">General</a>
+						<a href="movie-tab.php#dark_knight_cast" class="btn btn-warning">Cast</a>
+						<a href="movie-tab.php#dark_knight_gallery" class="btn btn-danger ">Gallery</a>
 						<br><br>
 					</section>
 				</div>
@@ -55,10 +55,10 @@
 					<div id="dark_knight_rises"class="accordion-body collapse">
 						<section class="accordion-inner">
 							<p>You can go to any links by clicking the buttons:</p>
-							<a href="article-tab.php#dark_knight_rises" class="btn btn-success">Description</a>
-							<a href="article-tab.php#dark_knight_rises_info" class="btn btn-info">General</a>
-							<a href="article-tab.php#dark_knight_rises_cast" class="btn btn-warning">Cast</a>
-							<a href="article-tab.php#dark_knight_rises_gallery" class="btn btn-danger">Gallery</a>
+							<a href="movie-tab.php#dark_knight_rises" class="btn btn-success">Description</a>
+							<a href="movie-tab.php#dark_knight_rises_info" class="btn btn-info">General</a>
+							<a href="movie-tab.php#dark_knight_rises_cast" class="btn btn-warning">Cast</a>
+							<a href="movie-tab.php#dark_knight_rises_gallery" class="btn btn-danger">Gallery</a>
 							<br><hr><br>
 						</section>
 					</div>

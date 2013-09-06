@@ -115,7 +115,7 @@
         </article>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
 
       </div>
     </div><!-- /.modal-content -->
@@ -161,7 +161,7 @@
         </article>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
 
       </div>
     </div><!-- /.modal-content -->
@@ -192,7 +192,7 @@
         </article>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
 
       </div>
     </div><!-- /.modal-content -->
@@ -240,7 +240,7 @@
        </article>
      </div>
      <div class="modal-footer">
-      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
 
     </div>
   </div><!-- /.modal-content -->
@@ -281,7 +281,7 @@
         </article>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
 
       </div>
     </div><!-- /.modal-content -->
@@ -308,7 +308,7 @@
         </article>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
 
       </div>
     </div><!-- /.modal-content -->
@@ -334,7 +334,7 @@
         </article>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
 
       </div>
     </div><!-- /.modal-content -->
@@ -374,7 +374,7 @@
           </article>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
           
         </div>
       </div><!-- /.modal-content -->
@@ -478,23 +478,37 @@
         <h4 class="modal-title">Batman: Arkham Origins</h4>
 
       </div>
-      <div class="modal-body-others">
-        <article>
-          <img class="pull-right img-rounded" src="assets/images/others/video_games/batman-1-large.jpg" alt="">
-          <div class="media-body">
-            <p><b>Batman: Arkham Origins</b>
-             is an upcoming action-adventure video game being developed by Warner Bros. Games Montreal and released by Warner Bros. Interactive Entertainment for the PlayStation 3, Xbox 360, and Wii U. video game consoles, and Microsoft Windows. The game is the third entry in the popular Batman Arkham mythos and a will serve as a prequel to the two previous games in the series, Batman: Arkham Asylum and Batman: Arkham City. The game is set to be released on October 25, 2013.
-           </p>
-           <h4>Summary</h4><p>Batman: Arkham Origins features an expanded Gotham City and introduces an original prequel storyline set several years before the events of Batman: Arkham Asylum and Batman: Arkham City, the first two critically acclaimed games of the franchise. Taking place before the rise of Gotham City’s most dangerous criminals, the game showcases a young and unrefined Batman as he faces a defining moment in his early career as a crime fighter that sets his path to becoming the Dark Knight. As the story unfolds, players will meet many important characters for the first time and forge key relationships.</p>
+      <div class="modal-body-others tabbable tabs">
+        <ul class="nav nav-tabs">
+          <li class="active"><a href="#arkham" data-toggle="tab">Description</a></li>
+          <li><a href="#arkham_trailer" data-toggle="tab">Game Trailer</a></li>
+        </ul>
+      </div>
+      <section class="tab-content">
+        <div class="tab-pane active" id="arkham">
+          <article>
+            <img class="pull-right img-rounded" src="assets/images/others/video_games/batman-1-large.jpg" alt="">
+            <div class="media-body">
+              <p><b>Batman: Arkham Origins</b>
+               is an upcoming action-adventure video game being developed by Warner Bros. Games Montreal and released by Warner Bros. Interactive Entertainment for the PlayStation 3, Xbox 360, and Wii U. video game consoles, and Microsoft Windows. The game is the third entry in the popular Batman Arkham mythos and a will serve as a prequel to the two previous games in the series, Batman: Arkham Asylum and Batman: Arkham City. The game is set to be released on October 25, 2013.
+             </p>
+             <h4>Summary</h4><p>Batman: Arkham Origins features an expanded Gotham City and introduces an original prequel storyline set several years before the events of Batman: Arkham Asylum and Batman: Arkham City, the first two critically acclaimed games of the franchise. Taking place before the rise of Gotham City’s most dangerous criminals, the game showcases a young and unrefined Batman as he faces a defining moment in his early career as a crime fighter that sets his path to becoming the Dark Knight. As the story unfolds, players will meet many important characters for the first time and forge key relationships.</p>
 
 
-         </div>
-       </article>
-     </div>
-     <div class="modal-footer">
-      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+           </div>
+         </article>
+       </div>
 
+       <div class="tab-pane" id="arkham_trailer">
+        <iframe width="570" height="360" src="//www.youtube.com/embed/9pnK8akbd2M" frameborder="0" allowfullscreen></iframe><p>Batman: Arkham Origins features an expanded Gotham City and introduces an original prequel storyline occurring several years before the events of Batman: Arkham Asylum and Batman: Arkham City. Taking place before the rise of Gotham City's most dangerous villains and assassins, the game showcases a young, raw, unrefined Batman as he faces a defining moment in his early career as a crime fighter that sets his path to becoming the Dark Knight. As the story unfolds, witness identities being formed and key relationships being forged.
+      </p>
     </div>
+  </section>
+</div>
+     <!-- <div class="modal-footer">
+      <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+
+    </div> -->
   </div><!-- /.modal-content -->
 </div><!-- /.modal-dialog -->
 </div><!-- /.modal -->
@@ -526,7 +540,7 @@
         </article>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
 
       </div>
     </div><!-- /.modal-content -->
@@ -558,7 +572,7 @@
           </article>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
           
         </div>
       </div><!-- /.modal-content -->
@@ -593,7 +607,7 @@
           </article>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
           
         </div>
       </div><!-- /.modal-content -->
@@ -622,7 +636,7 @@
             </article>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
 
           </div>
         </div><!-- /.modal-content -->
@@ -652,7 +666,7 @@
               </article>
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
 
             </div>
           </div><!-- /.modal-content -->
@@ -702,7 +716,7 @@
              </article>
            </div>
            <div class="modal-footer">
-            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
 
           </div>
         </div><!-- /.modal-content -->
@@ -723,27 +737,30 @@
               <div class="media-body">
                 <p><b>The Dark Knight Rises (Video Game)</b>
                  is a mobile game for iOS and Android developed and released by GameLoft. The action-adventure game is based on Christopher Nolan's The Dark Knight Rises film.
-               </p><hr><h4>About</h4><p>GameLoft describes the game as follow:
-               Play as Batman or Catwoman through 8 thrilling levels, from Gotham Streets to City Hall and the Stock Exchange. Unlock Batman's gadgets and vehicles like the Batarang and the Bat-Pod to fight against Bane and his mercenaries, and enjoy deep immersion in the Batman universe thanks to rich gameplay that allows you to explore, fight and sneak your way through the game.
+               </p>
                <hr>
-               <h4>Features:</h4>
+               <h4>About</h4>
+               <p>GameLoft describes the game as follow:
+                 Play as Batman or Catwoman through 8 thrilling levels, from Gotham Streets to City Hall and the Stock Exchange. Unlock Batman's gadgets and vehicles like the Batarang and the Bat-Pod to fight against Bane and his mercenaries, and enjoy deep immersion in the Batman universe thanks to rich gameplay that allows you to explore, fight and sneak your way through the game.
+                 <hr>
+                 <h4>Features:</h4>
 
-               8 levels to explore across several locations like Gotham Streets and City Hall!
-               Rich and challenging gameplay made up of platforming, fighting, chase levels and stealth!
-               A wide range of gadgets to use, from Batarangs to the Bat-Pod and more!
-               2 playable characters: Batman and Catwoman!
-               Great replay value thanks to secondary challenges for each level and numerous items to unlock!</p>
+                 8 levels to explore across several locations like Gotham Streets and City Hall!
+                 Rich and challenging gameplay made up of platforming, fighting, chase levels and stealth!
+                 A wide range of gadgets to use, from Batarangs to the Bat-Pod and more!
+                 2 playable characters: Batman and Catwoman!
+                 Great replay value thanks to secondary challenges for each level and numerous items to unlock!</p>
 
 
-             </div>
-           </article>
-         </div>
-         <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-          
-        </div>
-      </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-  </div><!-- /.modal -->
+               </div>
+             </article>
+           </div>
+           <div class="modal-footer">
+            <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+            
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
 
-</section>
+  </section>

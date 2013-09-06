@@ -26,27 +26,27 @@
           <div class="row">
             <div class="col-sm-6 col-md-3">
               <div class="thumbnail">
-                <a href="article-tab.php#batman_begins"><img data-src="holder.js/300x200" alt="300x200" src="assets/images/tv/movies/batman-6.jpg"></a>
+                <a href="movie-tab.php#batman_begins"><img data-src="holder.js/300x200" alt="300x200" src="assets/images/tv/movies/batman-6.jpg"></a>
                 <div class="caption">
-                  <a href="article-tab.php#batman_begins"><h6>Batman Begins</h6></a>
+                  <a href="movie-tab.php#batman_begins"><h6>Batman Begins</h6></a>
                   
                 </div>
               </div>
             </div>
             <div class="col-sm-6 col-md-3">
               <div class="thumbnail">
-               <a href="article-tab.php#dark_knight"><img data-src="holder.js/300x200" alt="300x200" src="assets/images/tv/movies/batman-7.jpg"></a>
+               <a href="movie-tab.php#dark_knight"><img data-src="holder.js/300x200" alt="300x200" src="assets/images/tv/movies/batman-7.jpg"></a>
                <div class="caption">
-                <a href="article-tab.php#dark_knight"> <h6>The Dark Knight</h6></a>
+                <a href="movie-tab.php#dark_knight"> <h6>The Dark Knight</h6></a>
                 
               </div>
             </div>
           </div>
           <div class="col-sm-6 col-md-3">
             <div class="thumbnail">
-              <a href="article-tab.php#dark_knight_rises"> <img data-src="holder.js/300x200" alt="300x200" src="assets/images/tv/movies/batman-8.jpg"></a>
+              <a href="movie-tab.php#dark_knight_rises"> <img data-src="holder.js/300x200" alt="300x200" src="assets/images/tv/movies/batman-8.jpg"></a>
               <div class="caption">
-                <a href="article-tab.php#dark_knight_rises"> <h6>The Dark Knight Rises</h6></a>
+                <a href="movie-tab.php#dark_knight_rises"> <h6>The Dark Knight Rises</h6></a>
                 
               </div>
             </div>

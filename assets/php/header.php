@@ -6,6 +6,8 @@ h1,h2,h3,h4,h5,h6{
 }
 
 body{
+	background: black url(assets/images/back-image.png) repeat-x fixed;
+
 	margin-top: 30px;
 }
 
@@ -222,26 +224,33 @@ li:last-child{
 }
 
 .modal-body-others {
-  position: relative;
-  max-height: 500px;
-  padding: 15px;
-  overflow-y: auto;
+	position: relative;
+	max-height: 500px;
+	max-height: 700px;
+	padding: 15px;
+	overflow-y: auto;
 }
 .carousel-caption h3{
 	color: white;
 
 }
 .scrollup{
-    width:40px;
-    height:40px;
-    opacity:0.3;
-    position:fixed;
-    bottom:50px;
-    right:100px;
-    display:none;
-    text-indent:-9999px;
-    background: url('assets/images/icon_top.png') no-repeat;
+	width:40px;
+	height:40px;
+	opacity:0.3;
+	position:fixed;
+	bottom:50px;
+	right:100px;
+	display:none;
+	text-indent:-9999px;
+	background: url('assets/images/icon_top.png') no-repeat;
 }
+.dropdown-submenu{position:relative;}
+.dropdown-submenu>.dropdown-menu{top:0;left:100%;margin-top:-6px;margin-left:-1px;-webkit-border-radius:0 6px 6px 6px;-moz-border-radius:0 6px 6px 6px;border-radius:0 6px 6px 6px;}
+.dropdown-submenu:hover>.dropdown-menu{display:block;}
+.dropdown-submenu>a:after{display:block;content:" ";float:right;width:0;height:0;border-color:transparent;border-style:solid;border-width:5px 0 5px 5px;border-left-color:#cccccc;margin-top:5px;margin-right:-10px;}
+.dropdown-submenu:hover>a:after{border-left-color:#ffffff;}
+.dropdown-submenu.pull-left{float:none;}.dropdown-submenu.pull-left>.dropdown-menu{left:-100%;margin-left:10px;-webkit-border-radius:6px 0 6px 6px;-moz-border-radius:6px 0 6px 6px;border-radius:6px 0 6px 6px;}
 </style>
 <div class="content row">
 	<div class="col-lg-12">
@@ -261,7 +270,19 @@ li:last-child{
 						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
 							<li ><a tabindex="-1" href="characters.php">All Characters</a></li>
 							<li role="presentation" class="divider"></li>
-							<li role="presentation"><a role="menuitem" tabindex="-1" href="villians.php">All Villians</a></li>
+							<!-- <li role="presentation"><a role="menuitem" tabindex="-1" href="villians.php">All Villians</a></li> -->
+							<li class="dropdown-submenu">
+								<a tabindex="-1" href="villians.php">All Villians</a>
+								<ul class="dropdown-menu">
+									<li><a tabindex="-1" href="villians.php#bane">Bane</a></li>
+									<li><a tabindex="-1" href="villians.php#face">Clay Face</a></li>
+									<li><a tabindex="-1" href="villians.php#catwoman">Catwoman</a></li>
+									<li><a tabindex="-1" href="villians.php#freeze">Mr. Freeze</a></li>
+									<li><a tabindex="-1" href="villians.php#joker">Joker</a></li>
+									<li><a tabindex="-1" href="villians.php#2face">Two Face</a></li>
+									
+								</ul>
+							</li>
 							<li role="presentation" class="divider"></li>
 							<li role="presentation"><a role="menuitem" tabindex="-1" href="characters.php#batman">Batman</a></li>
 							<li role="presentation"><a role="menuitem" tabindex="-1" href="characters.php#Batwing">Batwing</a></li>

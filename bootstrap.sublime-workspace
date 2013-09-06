@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"fad",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"re",
+				"no-repeat  (value)"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
 				"th",
 				"thead"
 			],
@@ -38,10 +50,6 @@
 			[
 				"margin",
 				"margin-left"
-			],
-			[
-				"text",
-				"text-indent"
 			],
 			[
 				"border",
@@ -199,41 +207,15 @@
 			"file": "assets/js/myscript.js",
 			"settings":
 			{
-				"buffer_size": 1111,
+				"buffer_size": 1414,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/D/wamp/www/amr/KU_SAMPLE_SITE/code/index2.html",
+			"file": "assets/php/header.php",
 			"settings":
 			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "Searching 87 files for \"index2\"\n\nD:\\wamp\\www\\amr\\ku_sample_site\\code\\index.html:\n  106                <li class=\"active\">\n  107                  <a href=\"./index.html\"> <i class=\"icon-home icon-white\"></i> Home</a> \n  108:       		  <li><a href=\"index2.html\">About</a></li>\n  109                \n  110               	<li class=\"dropdown\">\n\n1 match in 1 file\n",
-			"settings":
-			{
-				"buffer_size": 358,
-				"line_ending": "Windows",
-				"name": "Find Results",
-				"scratch": true
-			}
-		},
-		{
-			"file": "/D/wamp/www/amr/ku_sample_site/code/index.html",
-			"settings":
-			{
-				"buffer_size": 13479,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/wamp/www/amr/KU_SAMPLE_SITE/code/about.html",
-			"settings":
-			{
-				"buffer_size": 16998,
+				"buffer_size": 6828,
 				"line_ending": "Windows"
 			}
 		}
@@ -346,48 +328,59 @@
 	},
 	"file_history":
 	[
-		"/D/wamp/www/amr/academy/assets/php/article-schedule.php",
 		"/D/wamp/www/amr/academy/assets/php/header.php",
-		"/C/Users/HOME/Documents/git/GitHub/KU_SAMPLE_SITE/code/style.css",
+		"/C/Users/HOME/Documents/git/GitHub/KU_SAMPLE_SITE/code/index.html",
+		"/D/wamp/www/amr/academy/assets/php/article-others.php",
+		"/D/wamp/www/amr/academy/movie-tab.php",
+		"/D/wamp/www/amr/academy/others.php",
+		"/D/wamp/www/amr/academy/characters.php",
+		"/D/wamp/www/amr/academy/assets/php/footer.php",
+		"/D/wamp/www/amr/old_forex/forex_ci_-1/assets/css/style.css",
+		"/D/wamp/www/amr/academy/assets/js/myscript.js",
+		"/D/wamp/www/amr/academy/assets/php/article-intro.php",
+		"/D/wamp/www/amr/academy/assets/php/article_featured.php",
+		"/D/wamp/www/amr/academy/assets/php/aside-accordion.php",
+		"/D/wamp/www/amr/academy/assets/php/carousel.php",
 		"/D/wamp/www/amr/academy/bootstrap.sublime-workspace",
 		"/D/wamp/www/amr/academy/categories.php",
-		"/D/wamp/www/amr/academy/article-tab.php",
-		"/D/wamp/www/amr/academy/villians.php",
-		"/D/wamp/www/amr/academy/assets/php/aside-accordion.php",
-		"/D/wamp/www/amr/academy/others.php",
-		"/D/wamp/www/amr/academy/assets/php/article-others.php",
+		"/D/wamp/www/amr/old_forex/forex_ci_-1/application/views/header.php",
+		"/D/wamp/www/amr/old_forex/forex_ci_-1/application/views/chart.php",
 		"/D/wamp/www/amr/academy/index.php",
-		"/C/Users/HOME/Documents/git/GitHub/KU_SAMPLE_SITE/code/assets/css/bootstrap.css",
-		"/C/Users/HOME/Documents/git/GitHub/KU_SAMPLE_SITE/code/index.html",
-		"/C/Users/HOME/Documents/git/GitHub/KU_SAMPLE_SITE/code/index2.html",
+		"/D/wamp/www/amr/academy/article-tab.php",
+		"/C/Users/HOME/Documents/git/ForexNGold/forex_ci/application/views/home.php",
+		"/C/Users/HOME/Documents/git/ForexNGold/forex_ci/application/views/home_1.php",
+		"/D/wamp/www/amr/academy/privacy.php",
+		"/D/wamp/www/amr/academy/register.php",
+		"/D/wamp/www/amr/academy/villians.php",
+		"/D/wamp/www/amr/academy/aboutus.php",
+		"/C/Users/HOME/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/D/wamp/www/amr/academy/schedule.php",
+		"/D/wamp/www/amr/academy/assets/php/article-register.php",
+		"/D/wamp/www/amr/academy/assets/php/article-about.php",
+		"/D/wamp/www/amr/academy/assets/php/article-characters.php",
+		"/D/wamp/www/amr/academy/assets/php/article-schedule.php",
 		"/D/wamp/www/amr/academy/assets/php/aside-gallery.php",
+		"/D/wamp/www/amr/academy/assets/php/aside-register.php",
+		"/D/wamp/www/amr/academy/assets/php/character_photos.php",
+		"/D/wamp/www/amr/academy/assets/php/snippet_article_batman.php",
+		"/D/wamp/www/amr/academy/assets/php/snippet_article_villians.php",
+		"/D/wamp/www/amr/academy/assets/php/villians_photos.php",
+		"/D/wamp/www/amr/academy/artists.php",
+		"/D/wamp/www/amr/academy/from.php",
+		"/D/wamp/www/amr/KU_SAMPLE_SITE/code/index2.html",
+		"/D/wamp/www/amr/ku_sample_site/code/index.html",
+		"/D/wamp/www/amr/KU_SAMPLE_SITE/code/about.html",
+		"/C/Users/HOME/Documents/git/GitHub/KU_SAMPLE_SITE/code/style.css",
+		"/C/Users/HOME/Documents/git/GitHub/KU_SAMPLE_SITE/code/assets/css/bootstrap.css",
+		"/C/Users/HOME/Documents/git/GitHub/KU_SAMPLE_SITE/code/index2.html",
 		"/D/wamp/www/amr/academy/carousel.php",
 		"/D/wamp/www/amr/academy/venue.php",
-		"/D/wamp/www/amr/academy/characters.php",
-		"/D/wamp/www/amr/academy/assets/php/snippet_article_batman.php",
-		"/D/wamp/www/amr/academy/assets/php/article_featured.php",
-		"/D/wamp/www/amr/academy/register.php",
 		"/D/wamp/www/amr/academy/assets/css/mystyle.css",
-		"/D/wamp/www/amr/academy/schedule.php",
-		"/D/wamp/www/amr/academy/assets/php/footer.php",
-		"/D/wamp/www/amr/academy/assets/php/snippet_article_villians.php",
-		"/D/wamp/www/amr/academy/assets/php/article-about.php",
-		"/D/wamp/www/amr/academy/assets/php/character_photos.php",
-		"/D/wamp/www/amr/academy/assets/php/villians_photos.php",
-		"/D/wamp/www/amr/academy/assets/php/article-characters.php",
 		"/D/wamp/www/amr/CommunicationSouthAsia_2/index.php",
 		"/D/wamp/www/amr/CommunitcationSouthAsia/nepal_index.php",
 		"/D/wamp/www/amr/CommunitcationSouthAsia/index.php",
-		"/D/wamp/www/amr/academy/from.php",
 		"/D/wamp/www/amr/academy/sidebar.php",
-		"/D/wamp/www/amr/academy/assets/php/article-register.php",
-		"/D/wamp/www/amr/academy/assets/php/aside-register.php",
-		"/D/wamp/www/amr/academy/assets/php/carousel.php",
-		"/D/wamp/www/amr/academy/assets/php/article-intro.php",
-		"/D/wamp/www/amr/academy/artists.php",
 		"/D/wamp/www/amr/academy/article-about.php",
-		"/D/wamp/www/amr/academy/privacy.php",
-		"/D/wamp/www/amr/academy/aboutus.php",
 		"/C/Users/HOME/Desktop/test.html",
 		"/D/wamp/www/bootstrap/index.php",
 		"/C/Users/HOME/Documents/python/os.py",
@@ -462,18 +455,7 @@
 		"/C/Users/HOME/Downloads/gold&siver (1).json",
 		"/D/wamp/www/forex_ci/application/views/header.php",
 		"/D/wamp/www/forex_ci/application/views/aboutus_view.php",
-		"/D/wamp/www/forex_ci_aug_8/application/controllers/downloads.php",
-		"/D/wamp/www/forex_ci_aug_8/application/controllers/apis.php",
-		"/C/Users/HOME/Downloads/gold&siver (5).xml",
-		"/C/Users/HOME/Downloads/gold&siver (2).csv",
-		"/D/wamp/www/forex_ci/assets/js/select_gold_date.js",
-		"/C/Users/HOME/Downloads/forex (7).xml",
-		"/D/wamp/www/forex_ci/assets/js/worldmap.js",
-		"/D/wamp/www/forex_ci/assets/js/select_forex_date.js",
-		"/C/Users/HOME/Downloads/forex (6).json",
-		"/D/wamp/www/forex_ci/application/views/chart.php",
-		"/D/wamp/www/forex_ci/application/views/forex.php",
-		"/D/wamp/www/forex_ci/application/views/footer.php"
+		"/D/wamp/www/forex_ci_aug_8/application/controllers/downloads.php"
 	],
 	"find":
 	{
@@ -484,6 +466,7 @@
 		"height": 0.0,
 		"where_history":
 		[
+			"D:\\wamp\\www\\amr\\academy",
 			"D:\\wamp\\www\\amr\\ku_sample_site",
 			"D:\\wamp\\www\\amr\\academy",
 			"D:\\wamp\\www\\forex_ci\\assets",
@@ -519,6 +502,25 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			">\n",
+			"article-tab",
+			"default",
+			"scrollup",
+			"scroll",
+			"modal-body",
+			"academy template",
+			"Searching",
+			"academy template",
+			"pink",
+			"below",
+			"<!DOCTYPE html>\n<html>\n<head>\n  <title>Academy Template</title>\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <link href='http://fonts.googleapis.com/css?family=Bree+Serif|Merriweather:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>\n\n  <!-- Bootstrap -->\n  <link href=\"assets/css/bootstrap.min.css\" rel=\"stylesheet\" media=\"screen\">\n\n</head>\n<body id=\"register\">\n\n  <section class=\"container\">\n    <div class=\"content row\">\n     <?php include \"assets/php/header.php\" ?>\n     <section class=\"main col col-lg-8\">\n       \n       <?php include \"assets/php/article-register.php\" ?>\n       \n     </section>\n     <section class=\"main col col-lg-4\">\n      <?php include \"assets/php/aside-register.php\"; ?>\n      <?php include \"assets/php/aside-gallery.php\"; ?>\n      <?php include \"assets/php/aside-accordion.php\"; ?>\n    </section>\n  </div>\n  <?php include \"assets/php/footer.php\" ?>\n</section>  \n\n\n</body>\n</html>",
+			"<!DOCTYPE html>\n<html>\n<head>\n  <title>Academy Template</title>\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <link href='http://fonts.googleapis.com/css?family=Bree+Serif|Merriweather:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>\n\n  <!-- Bootstrap -->\n  <link href=\"css/bootstrap.min.css\" rel=\"stylesheet\" media=\"screen\">\n\n  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->\n    <!--[if lt IE 9]>\n      <script src=\"../../assets/js/html5shiv.js\"></script>\n      <script src=\"../../assets/js/respond.min.js\"></script>\n      <![endif]-->\n    </head>\n    <body id=\"home\">\n\n      <section class=\"container\">\n        <div class=\"content row\">\n          <section class=\"main col col-lg-8\">\n            <h2>Main content</h2>\n            <p>Step 6: Setting Up your Live Site\n              Now that we have imported the database, and all of our content should be uploaded, it is time to configure WordPress. At this time, your site should be showing an Error Establishing Database Connection error. To fix this, connect to your website using an FTP client and edit wp-config.php file. Provide the database name, user and password you created earlier in Step 3. Save the wp-config.php file and upload it back to your server. Visit your website, and it should be live now.\n              Login to your WordPress admin panel, and go to Settings » General. Click save Options. This will ensure that the site url is corrected anywhere else that needs to be.\n              Then go to Settings » Permalink and click Save to ensure that all post links are working fine.</p>\n            </section>\n            <section class=\"main col col-lg-4\">\n              <h2>Side content</h2>\n              <p>Now that we have imported the database, and all of our content should be uploaded, it is time to configure WordPress. At this time, your site should be showing an Error Establishing Database Connection error. To fix this, connect to your website using an FTP client and edit wp-config.php file. Provide the database name, user and password you created earlier in Step 3. Save the wp-config.php file and upload it back to your server. Visit your website, and it should be live now.\n                Login to your WordPress admin panel, and go to Settings » General. Click save Options. This will ensure that the site url is corrected anywhere else that needs to be.\n                Then go to Settings » Permalink and click Save to ensure that all post links are working fine.</p>\n              </section>\n            </div>\n          </section>  \n          \n\n          <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->\n          <script src=\"js/jquery.min.js\"></script>\n          <!-- Include all compiled plugins (below), or include individual files as needed -->\n          <script src=\"js/bootstrap.min.js\"></script>\n        </body>\n        </html>",
+			"<!DOCTYPE html>\n<html>\n<head>\n  <title>Academy Template</title>\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <link href='http://fonts.googleapis.com/css?family=Bree+Serif|Merriweather:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>\n\n  <!-- Bootstrap -->\n  <link href=\"assets/css/bootstrap.min.css\" rel=\"stylesheet\" media=\"screen\">\n\n  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->\n    <!--[if lt IE 9]>\n      <script src=\"../../assets/js/html5shiv.js\"></script>\n      <script src=\"../../assets/js/respond.min.js\"></script>\n      <![endif]-->\n    </head>\n    <body id=\"others\">\n\n     <section class=\"container\">\n      <div class=\"content row\">\n\n        <?php include \"assets/php/header.php\"; ?>\n\n        <?php include \"assets/php/article-others.php\"; ?>           \n        <section class=\"main col col-lg-4\">\n          <?php include \"assets/php/aside-register.php\"; ?>\n          <?php include \"assets/php/aside-gallery.php\"; ?>\n          <?php include \"assets/php/aside-accordion.php\"; ?>\n          \n\n        </section>\n      </div>\n      <?php include \"assets/php/footer.php\" ?>\n    </section>  \n    \n\n\n  </body>\n  </html>",
+			"        <?",
+			"<?",
+			"\n        ",
+			"        \n",
+			"Interpretations",
 			"index2",
 			"h3",
 			"thead",
@@ -610,6 +612,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"movie-tab",
+			"Academy Batman\nAcademyBatman\nAcademyBatman",
 			"about",
 			"others",
 			"categories",
@@ -641,7 +645,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -649,15 +653,15 @@
 					"file": "assets/js/myscript.js",
 					"settings":
 					{
-						"buffer_size": 1111,
+						"buffer_size": 1414,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								117,
-								117
+								797,
+								797
 							]
 						],
 						"settings":
@@ -854,21 +858,20 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 118.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/D/wamp/www/amr/KU_SAMPLE_SITE/code/index2.html",
+					"file": "assets/php/header.php",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 6828,
 						"regions":
 						{
 						},
@@ -876,7 +879,7 @@
 						[
 							[
 								0,
-								0
+								6828
 							]
 						],
 						"settings":
@@ -1073,687 +1076,11 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"settings":
-					{
-						"buffer_size": 358,
-						"regions":
-						{
-							"match":
-							{
-								"flags": 112,
-								"regions":
-								[
-									[
-										246,
-										252
-									]
-								],
-								"scope": ""
-							}
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2.0,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5.0,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10.0,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"detect_indentation": false,
-							"gjslint_ignore":
-							[
-								110.0
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"output_tag": 1,
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"result_base_dir": "",
-							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
-							"result_line_regex": "^ +([0-9]+):",
-							"scroll_past_end": true,
-							"sublime_auto_complete": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2.0,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/D/wamp/www/amr/ku_sample_site/code/index.html",
-					"settings":
-					{
-						"buffer_size": 13479,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7020,
-								7020
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2.0,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5.0,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10.0,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110.0
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublime_auto_complete": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2.0,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2137.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/D/wamp/www/amr/KU_SAMPLE_SITE/code/about.html",
-					"settings":
-					{
-						"buffer_size": 16998,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6433,
-								6433
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2.0,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5.0,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10.0,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110.0
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublime_auto_complete": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2.0,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1712.0,
+						"translation.y": 4148.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1836,7 +1163,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 211.0,
 	"status_bar_visible": true
 }
