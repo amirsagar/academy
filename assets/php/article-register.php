@@ -25,7 +25,7 @@
   <legend>Other Info</legend>
   
   
-  <section>
+  <!-- <section>
     <label class="col-lg-4  control-label"for="name">Request Type</label>
     <div class="controls col col-lg-8">
       <div class="radio">
@@ -41,7 +41,7 @@
         </label>
       </div>
     </div>
-  </section>
+  </section> -->
   <br>
   <section class="row">
 

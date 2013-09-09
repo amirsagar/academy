@@ -1,9 +1,13 @@
+@import url('bootstrap.min.css');
+
 h1,h2,h3,h4,h5,h6{
 	font-family: headlineFontFamily;
 	color: purple
 }
 
 body{
+	background: black url(../images/back-image.png) repeat-x fixed;
+
 	margin-top: 30px;
 }
 
@@ -19,8 +23,8 @@ p{
 }
 
 hr { 
-        border-top: 2px solid #ccc;
-        }
+	border-top: 2px solid #ccc;
+}
 
 .container{
 	background: beige;
@@ -28,12 +32,12 @@ hr {
 	-moz-border-radius: 60px 0 0 0;
 	border-radius: 60px 0 0 0;
 
-@media(max-width: 767px){
-	-webkit-border-radius: 20px 0 0 0;
-	-moz-border-radius: 20px 0 0 0;
-	border-radius: 20px 0 0 0;
+	@media(max-width: 767px){
+		-webkit-border-radius: 20px 0 0 0;
+		-moz-border-radius: 20px 0 0 0;
+		border-radius: 20px 0 0 0;
 
-}
+	}
 }
 .main{
 	background: beige;
@@ -45,7 +49,7 @@ hr {
 .carousel{
 	margin-bottom: 0;
 }
-.main>articel{
+.main>article{
 	margin: 0 5%;
 
 }
@@ -57,14 +61,14 @@ hr {
 	}
 }
 
-aside{
-	h2{
-		font-size: 1.8em;
-		color:pink;
-		border-bottom: 1px dotted purple;
+aside h2{
+	
+	font-size: 1.8em;
+	color:pink;
+	border-bottom: 1px dotted purple;
 
 
-	}
+	
 }
 
 .navbar{
@@ -73,50 +77,70 @@ aside{
 	border-radius:0;
 }
 
-#branding{
-	img{
-		margin:10px 0 5px 25px;
-		max-width:450px;
-		@media(max-width: 767px){
-			margin:10px 0 5px 10px;
-			width: 90%;
-		}
+#branding img{
+	
+	margin:10px 0 5px 25px;
+	max-width:450px;
+	@media(max-width: 767px){
+		margin:10px 0 5px 10px;
+		width: 90%;
 	}
+	
 }
 
 .accordion-heading{
-	background: purple;
+	background: #dc5346;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	
+}
+.accordion-heading:hover{
+
+	background: #e37368;
 	padding-bottom: 5px;
 	margin-bottom: 5px;
 	
 }
 .accordion-heading a{
-		color:white;
-	}
+	color:white;
+}
+.accordion-heading a:hover{
+	text-decoration: none;
+	color:black;
+}
 
 .nav-tabs li a{
 	color: purple;
 }
 .nav-tabs li.active a{
-	color: pink;
+	color: #dc5346;
 	background: white;
 	font-weight: bold;
 }
 .nav-tabs li a:hover{
-	background: pink;
+	background: #dc5346;
 	color: white;
 }
 .nav-tabs li.active{
 	color: purple;
 }
 
+.grid img{
+	padding-bottom: 5px;
+	width: 150px;
+	height: 160px;
+	margin: 0 5px 5px 0;
+	cursor: pointer;  
+}
 .photogrid img{
 	width: 96px;
 	margin: 0 5px 5px 0;
 	cursor: pointer;  
 }
 
+
 footer ul.breadcrumb{
+	width: 100%;
 	background: #5e5556;
 	margin: 0 auto;
 	-webkit-border-radius: 0;
@@ -124,16 +148,24 @@ footer ul.breadcrumb{
 	border-radius: 0;
 
 }
+
 footer li{
 	text-shadow: none;
 
 }
 footer li a{
 	color:white;
-
-
 }
-.navbar .nav>li.dropdown-menu{
+footer li.active {
+	background-color:#5e5556;
+	color:black;
+	text-color:black;
+}
+footer li a:hover{
+	color:black;
+	text-decoration: none
+}
+.navbar .nav > li.dropdown-menu{
 	top:30px;
 }
 
@@ -160,12 +192,12 @@ footer li a{
 	
 }
 .scrollspy .nav li a:hover{
-	background: #e16a77;
+	background: #fe42ff;
 	color: black;
 	
 }
- li.active{
-	background: pink;
+li.active{
+	background: #b200b2;
 }
 
 li:first-child{
@@ -176,5 +208,47 @@ li:last-child{
 
 }
 .affix {
-    top: 20px;
+	top: 20px;
 }
+
+.tab-content{
+	background: white;
+}
+
+.thumbnail img {
+	box-shadow: 0 0 25px 0px #737370;
+	-webkit-box-shadow: 0 0 25px 0px #737370;
+	padding: 4px 6px 5px 5px;
+	background-color: #c1c0bb;
+	
+}
+
+.modal-body-others {
+	position: relative;
+	max-height: 500px;
+	max-height: 700px;
+	padding: 15px;
+	overflow-y: auto;
+}
+.carousel-caption h3{
+	color: white;
+
+}
+.scrollup{
+	width:40px;
+	height:40px;
+
+	opacity:.3;
+	position:fixed;
+	bottom:50px;
+	right:100px;
+	display:none;
+	text-indent:-9999px;
+	background: url(../images/icon_top.png) no-repeat;
+}
+.dropdown-submenu{position:relative;}
+.dropdown-submenu>.dropdown-menu{top:0;left:100%;margin-top:-6px;margin-left:-1px;-webkit-border-radius:0 6px 6px 6px;-moz-border-radius:0 6px 6px 6px;border-radius:0 6px 6px 6px;}
+.dropdown-submenu:hover>.dropdown-menu{display:block;}
+.dropdown-submenu>a:after{display:block;content:" ";float:right;width:0;height:0;border-color:transparent;border-style:solid;border-width:5px 0 5px 5px;border-left-color:#cccccc;margin-top:5px;margin-right:-10px;}
+.dropdown-submenu:hover>a:after{border-left-color:#ffffff;}
+.dropdown-submenu.pull-left{float:none;}.dropdown-submenu.pull-left>.dropdown-menu{left:-100%;margin-left:10px;-webkit-border-radius:6px 0 6px 6px;-moz-border-radius:6px 0 6px 6px;border-radius:6px 0 6px 6px;}

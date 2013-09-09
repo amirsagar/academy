@@ -12,6 +12,12 @@
 	</footer>
 </section>
 <a href="#" class="scrollup" style="display:hidden;">Scroll</a>
+</section>  
+
+
+</body>
+</html>
+
 
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/myscript.js"></script>
